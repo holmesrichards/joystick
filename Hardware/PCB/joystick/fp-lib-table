@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name joystick_pcb)(type KiCad)(uri ${KIPRJMOD}/joystick_pcb.pretty)(options "")(descr ""))
+)
