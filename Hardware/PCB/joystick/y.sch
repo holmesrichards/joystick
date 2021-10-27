@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 3
+Sheet 2 2
 Title ""
 Date ""
 Rev ""
@@ -586,4 +586,147 @@ Text GLabel 1850 2150 0    50   Input ~ 0
 YPOT_WIPER
 Text GLabel 1850 2250 0    50   Output ~ 0
 YPOT_CCW
+Text GLabel 8600 4550 3    50   Input ~ 0
+YOFFPOT_CW
+Text GLabel 8700 4550 3    50   Output ~ 0
+YOFFPOT_WIPER
+Text GLabel 8800 4550 3    50   Input ~ 0
+YOFFPOT_CCW
+Text GLabel 9550 4550 3    50   BiDi ~ 0
+YRANGEPOT_CCW
+Text GLabel 9450 4550 3    50   BiDi ~ 0
+YRANGEPOT_WIPER
+$Comp
+L ao_symbols:3_pin_Molex_header J?
+U 1 1 617BD456
+P 8700 4350
+AR Path="/617BD456" Ref="J?"  Part="1" 
+AR Path="/6157E61D/617BD456" Ref="J13"  Part="1" 
+F 0 "J13" V 8900 4350 50  0000 R CNN
+F 1 "3_pin_Molex_header" V 8800 4650 50  0000 R CNN
+F 2 "ao_tht:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical" H 8700 4350 50  0001 C CNN
+F 3 "" H 8700 4350 50  0001 C CNN
+F 4 "Tayda" H 8700 4350 50  0001 C CNN "Vendor"
+F 5 "A-805" H 8700 4350 50  0001 C CNN "SKU"
+	1    8700 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ao_symbols:2_pin_Molex_header J?
+U 1 1 617BD45E
+P 9450 4350
+AR Path="/617BD45E" Ref="J?"  Part="1" 
+AR Path="/6157E61D/617BD45E" Ref="J14"  Part="1" 
+F 0 "J14" V 9650 4350 50  0000 R CNN
+F 1 "2_pin_Molex_header" V 9550 4600 50  0000 R CNN
+F 2 "ao_tht:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 9450 4350 50  0001 C CNN
+F 3 "" H 9450 4350 50  0001 C CNN
+F 4 "Tayda" H 9450 4350 50  0001 C CNN "Vendor"
+F 5 "A-804" H 9450 4350 50  0001 C CNN "SKU"
+	1    9450 4350
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5500 5050 5550 5050
+Wire Wire Line
+	5550 5050 5550 5150
+Wire Wire Line
+	5550 5150 5800 5150
+Wire Wire Line
+	5500 4850 5800 4850
+Wire Wire Line
+	5650 5000 5550 5000
+Wire Wire Line
+	5550 5000 5550 4950
+Wire Wire Line
+	5550 4950 5500 4950
+Wire Wire Line
+	5550 4350 5550 4200
+Wire Wire Line
+	5500 4350 5550 4350
+Connection ~ 5550 4350
+Text GLabel 5500 4350 0    50   BiDi ~ 0
+YRANGEPOT_WIPER_P
+Text GLabel 5500 4500 0    50   BiDi ~ 0
+YRANGEPOT_CCW_P
+Text GLabel 5500 4850 0    50   Input ~ 0
+YOFFPOT_CW_P
+Text GLabel 5500 4950 0    50   Output ~ 0
+YOFFPOT_WIPER_P
+Text GLabel 5500 5050 0    50   Input ~ 0
+YOFFPOT_CCW_P
+Wire Wire Line
+	5550 4200 5800 4200
+Wire Wire Line
+	5550 4350 5650 4350
+Wire Wire Line
+	5500 4500 5800 4500
+$Comp
+L Device:R_POT RV?
+U 1 1 617F3E12
+P 5800 4350
+AR Path="/617F3E12" Ref="RV?"  Part="1" 
+AR Path="/61647DC3/617F3E12" Ref="RV?"  Part="1" 
+AR Path="/6157E61D/617F3E12" Ref="RV3"  Part="1" 
+F 0 "RV3" H 5700 4300 50  0000 R CNN
+F 1 "B100k" H 5700 4400 50  0000 R CNN
+F 2 "ao_tht:Potentiometer_Alpha_16mm_Single_Vertical" H 5800 4350 50  0001 C CNN
+F 3 "~" H 5800 4350 50  0001 C CNN
+	1    5800 4350
+	-1   0    0    1   
+$EndComp
+Text GLabel 4750 5800 3    50   Output ~ 0
+YOFFPOT_CW_P
+Text GLabel 4850 5800 3    50   Input ~ 0
+YOFFPOT_WIPER_P
+Text GLabel 4950 5800 3    50   Output ~ 0
+YOFFPOT_CCW_P
+Text GLabel 5900 5800 3    50   BiDi ~ 0
+YRANGEPOT_CCW_P
+Text GLabel 5800 5800 3    50   BiDi ~ 0
+YRANGEPOT_WIPER_P
+$Comp
+L Device:R_POT RV?
+U 1 1 617F3E1D
+P 5800 5000
+AR Path="/617F3E1D" Ref="RV?"  Part="1" 
+AR Path="/61647DC3/617F3E1D" Ref="RV?"  Part="1" 
+AR Path="/6157E61D/617F3E1D" Ref="RV4"  Part="1" 
+F 0 "RV4" H 5730 4954 50  0000 R CNN
+F 1 "B100k" H 5730 5045 50  0000 R CNN
+F 2 "ao_tht:Potentiometer_Alpha_16mm_Single_Vertical" H 5800 5000 50  0001 C CNN
+F 3 "~" H 5800 5000 50  0001 C CNN
+	1    5800 5000
+	-1   0    0    1   
+$EndComp
+$Comp
+L ao_symbols:3_pin_Molex_connector J?
+U 1 1 617F3E25
+P 4850 5600
+AR Path="/617F3E25" Ref="J?"  Part="1" 
+AR Path="/6157E61D/617F3E25" Ref="J11"  Part="1" 
+F 0 "J11" V 5050 5600 50  0000 R CNN
+F 1 "3_pin_Molex_connector" V 4950 6000 50  0000 R CNN
+F 2 "" H 4850 5600 50  0001 C CNN
+F 3 "" H 4850 5600 50  0001 C CNN
+F 4 "Tayda" H 4850 5600 50  0001 C CNN "Vendor"
+F 5 "A-827" H 4850 5600 50  0001 C CNN "SKU"
+	1    4850 5600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ao_symbols:2_pin_Molex_connector J?
+U 1 1 617F3E2D
+P 5800 5600
+AR Path="/617F3E2D" Ref="J?"  Part="1" 
+AR Path="/6157E61D/617F3E2D" Ref="J12"  Part="1" 
+F 0 "J12" V 6000 5600 50  0000 R CNN
+F 1 "2_pin_Molex_connector" V 5900 6000 50  0000 R CNN
+F 2 "" H 5800 5600 50  0001 C CNN
+F 3 "" H 5800 5600 50  0001 C CNN
+F 4 "Tayda" H 5800 5600 50  0001 C CNN "Vendor"
+F 5 "A-826" H 5800 5600 50  0001 C CNN "SKU"
+	1    5800 5600
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC

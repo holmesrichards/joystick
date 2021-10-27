@@ -248,10 +248,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.85"
-     inkscape:cx="260.58824"
-     inkscape:cy="582.35294"
+     inkscape:cx="539.41176"
+     inkscape:cy="530.58824"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer15"
+     inkscape:current-layer="layer16"
      showgrid="false"
      units="in"
      inkscape:window-width="1920"
@@ -264,7 +264,7 @@
      inkscape:snap-midpoints="true"
      inkscape:snap-others="true"
      inkscape:snap-grids="true"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="false"
      inkscape:snap-text-baseline="true"
@@ -357,6 +357,10 @@
        position="4.9212597,5.2913385"
        orientation="1,0"
        id="guide5410" />
+    <sodipodi:guide
+       position="2.4606254,5.8425312"
+       orientation="0,-1"
+       id="guide4396" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -757,7 +761,7 @@
      inkscape:label="Outline"
      style="display:inline">
     <rect
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2925"
        width="3.9370079"
        height="7.8740158"
@@ -777,7 +781,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Behind panel"
-     style="display:inline;opacity:1">
+     style="display:none;opacity:1">
     <g
        id="g31579"
        transform="translate(-3.559055,1.4842393)"
@@ -1073,26 +1077,6 @@
        inkscape:export-xdpi="1000.0282"
        inkscape:export-ydpi="1000.0282" />
     <rect
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect434"
-       width="2.1653535"
-       height="0.23621866"
-       x="2.3622048"
-       y="6.3385797"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282" />
-    <rect
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect436"
-       width="2.5590549"
-       height="0.23622023"
-       x="2.0669284"
-       y="7.9921231"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282" />
-    <rect
        style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1578"
        width="3.8582683"
@@ -1328,6 +1312,24 @@
        style="opacity:0.995;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2377)"
        d="m 2.5229016,3.9433939 0.1357501,-0.00124"
        id="path1484"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
+       inkscape:export-xdpi="1000.0282"
+       inkscape:export-ydpi="1000.0282" />
+    <circle
+       r="0.078740157"
+       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4718"
+       cx="2.4606223"
+       cy="5.1574769"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
+       inkscape:export-xdpi="1000.0282"
+       inkscape:export-ydpi="1000.0282" />
+    <circle
+       r="0.078740157"
+       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4478"
+       cx="5.4133854"
+       cy="5.1574683"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
        inkscape:export-xdpi="1000.0282"
        inkscape:export-ydpi="1000.0282" />
@@ -1730,6 +1732,56 @@
          d="m -6.7913418,1.7480386 h -0.19685"
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
+    <circle
+       r="0.062992126"
+       style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4720"
+       cx="2.4606223"
+       cy="5.1574769"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
+       inkscape:export-xdpi="1000.0282"
+       inkscape:export-ydpi="1000.0282" />
+    <path
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 2.4606189,5.1181065 v 0.07874"
+       id="path4722"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
+       inkscape:export-xdpi="1000.0282"
+       inkscape:export-ydpi="1000.0282" />
+    <path
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 2.4999929,5.1574776 h -0.07874"
+       id="path4724"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
+       inkscape:export-xdpi="1000.0282"
+       inkscape:export-ydpi="1000.0282" />
+    <circle
+       r="0.062992126"
+       style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4480"
+       cx="5.4133854"
+       cy="5.1574683"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
+       inkscape:export-xdpi="1000.0282"
+       inkscape:export-ydpi="1000.0282" />
+    <path
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 5.4133817,5.1180977 v 0.07874"
+       id="path4482"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
+       inkscape:export-xdpi="1000.0282"
+       inkscape:export-ydpi="1000.0282" />
+    <path
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 5.4527557,5.1574688 h -0.07874"
+       id="path4484"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
+       inkscape:export-xdpi="1000.0282"
+       inkscape:export-ydpi="1000.0282" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1757,8 +1809,30 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="Panel Hardware"
-     style="display:inline;opacity:1"
-     sodipodi:insensitive="true">
+     style="display:inline;opacity:1">
+    <g
+       id="g3509-06"
+       style="display:inline"
+       transform="translate(12.657331,-1.3865433)"
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574">
+      <circle
+         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path3500-2"
+         cx="-10.196706"
+         cy="6.5440121"
+         r="0.098425195" />
+      <path
+         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:0.03125;stroke-linejoin:bevel;stroke-opacity:1"
+         d="m -10.295134,6.5440142 h 0.19685"
+         id="path3502-61" />
+      <circle
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle3504-8"
+         cx="-10.196706"
+         cy="6.5440121"
+         r="0.098425195" />
+    </g>
     <g
        id="g3105"
        style="display:inline"
@@ -1954,33 +2028,6 @@
          transform="rotate(-120)" />
     </g>
     <g
-       transform="matrix(-0.85870685,0,0,0.85870685,4.9830057,-0.36134171)"
-       id="g1928"
-       style="display:inline">
-      <circle
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle1920"
-         cx="2.3643098"
-         cy="7.0687695"
-         r="0.61374104" />
-      <path
-         style="opacity:0.884;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 2.2736434,6.5666128 0.181333,-10e-7 0.030222,0.068581 0.1426661,0.068693 0.072459,-0.019142 0.1130813,0.1417544 -0.034766,0.066393 0.034612,0.1514862 0.06015,0.044707 -0.040299,0.1767984 -0.073582,0.014226 -0.096838,0.1215243 0.00256,0.074901 -0.1633405,0.07875 -0.057007,-0.048651 -0.1611692,-1e-6 -0.057007,0.048651 -0.1633405,-0.07875 0.00256,-0.074901 -0.096838,-0.1215246 -0.073582,-0.014226 -0.040299,-0.1767984 0.06015,-0.044707 0.034612,-0.1514858 -0.034766,-0.066393 0.1130812,-0.1417542 0.072459,0.019142 0.1426662,-0.068691 z"
-         id="path1922"
-         inkscape:connector-curvature="0" />
-      <circle
-         style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle1924"
-         cx="2.3643107"
-         cy="7.0687723"
-         r="0.39753675" />
-      <path
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.0312499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="M 2.3622056,6.4724214 V 6.6692718"
-         id="path1926"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
        transform="matrix(-0.85870685,0,0,0.85870685,6.9515095,-0.36134171)"
        id="g1928-6"
        style="display:inline">
@@ -2060,6 +2107,56 @@
          d="M 2.3622056,6.4724214 V 6.6692718"
          id="path1926-83"
          inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(-0.85870685,0,0,0.85870685,4.9830057,-0.36134171)"
+       id="g1928"
+       style="display:inline">
+      <circle
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1920"
+         cx="2.3643098"
+         cy="7.0687695"
+         r="0.61374104" />
+      <path
+         style="opacity:0.884;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 2.2736434,6.5666128 0.181333,-10e-7 0.030222,0.068581 0.1426661,0.068693 0.072459,-0.019142 0.1130813,0.1417544 -0.034766,0.066393 0.034612,0.1514862 0.06015,0.044707 -0.040299,0.1767984 -0.073582,0.014226 -0.096838,0.1215243 0.00256,0.074901 -0.1633405,0.07875 -0.057007,-0.048651 -0.1611692,-1e-6 -0.057007,0.048651 -0.1633405,-0.07875 0.00256,-0.074901 -0.096838,-0.1215246 -0.073582,-0.014226 -0.040299,-0.1767984 0.06015,-0.044707 0.034612,-0.1514858 -0.034766,-0.066393 0.1130812,-0.1417542 0.072459,0.019142 0.1426662,-0.068691 z"
+         id="path1922"
+         inkscape:connector-curvature="0" />
+      <circle
+         style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1924"
+         cx="2.3643107"
+         cy="7.0687723"
+         r="0.39753675" />
+      <path
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.0312499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 2.3622056,6.4724214 V 6.6692718"
+         id="path1926"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g4492"
+       style="display:inline"
+       transform="translate(15.610094,-1.3865521)"
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574">
+      <circle
+         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle4486"
+         cx="-10.196706"
+         cy="6.5440121"
+         r="0.098425195" />
+      <path
+         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:0.03125;stroke-linejoin:bevel;stroke-opacity:1"
+         d="m -10.295134,6.5440142 h 0.19685"
+         id="path4488" />
+      <circle
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle4490"
+         cx="-10.196706"
+         cy="6.5440121"
+         r="0.098425195" />
     </g>
   </g>
   <g

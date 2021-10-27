@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
-Sheet 1 3
+Sheet 1 2
 Title "Joystick"
 Date "2020-11-27"
 Rev ""
@@ -754,7 +754,7 @@ U 1 1 6159C377
 P 8100 4150
 F 0 "GRAF1" H 8378 4196 50  0000 L CNN
 F 1 "Holes" H 8378 4105 50  0000 L CNN
-F 2 "joystick_pcb:joystick_panel_holes" H 8100 4150 50  0001 C CNN
+F 2 "joystick_panel:joystick_panel_holes" H 8100 4150 50  0001 C CNN
 F 3 "" H 8100 4150 50  0001 C CNN
 F 4 "DNF" H 8100 4150 50  0001 C CNN "Config"
 	1    8100 4150
@@ -812,74 +812,16 @@ Text GLabel 7400 5750 2    50   Input ~ 0
 YPOT_CCW
 Text Notes 7050 6200 0    50   ~ 0
 To joystick
-Text GLabel 9000 5850 2    50   Input ~ 0
+Text GLabel 9050 4100 3    50   Input ~ 0
 XOFFPOT_CW
-Text GLabel 9000 5950 2    50   Output ~ 0
+Text GLabel 9150 4100 3    50   Output ~ 0
 XOFFPOT_WIPER
-Text GLabel 9000 6050 2    50   Input ~ 0
+Text GLabel 9250 4100 3    50   Input ~ 0
 XOFFPOT_CCW
-Text GLabel 9000 5750 2    50   BiDi ~ 0
+Text GLabel 10000 4100 3    50   BiDi ~ 0
 XRANGEPOT_CCW
-Text GLabel 9000 5650 2    50   BiDi ~ 0
+Text GLabel 9900 4100 3    50   BiDi ~ 0
 XRANGEPOT_WIPER
-$Comp
-L Connector_Generic:Conn_01x11 J5
-U 1 1 615E20FA
-P 8800 5550
-F 0 "J5" H 8718 4825 50  0000 C CNN
-F 1 "Conn_01x11" H 8718 4916 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x11_P2.54mm_Vertical" H 8800 5550 50  0001 C CNN
-F 3 "~" H 8800 5550 50  0001 C CNN
-	1    8800 5550
-	-1   0    0    1   
-$EndComp
-Text GLabel 9000 5350 2    50   Input ~ 0
-YOFFPOT_CW
-Text GLabel 9000 5450 2    50   Output ~ 0
-YOFFPOT_WIPER
-Text GLabel 9000 5550 2    50   Input ~ 0
-YOFFPOT_CCW
-Text GLabel 9000 5250 2    50   BiDi ~ 0
-YRANGEPOT_CCW
-Text GLabel 9000 5150 2    50   BiDi ~ 0
-YRANGEPOT_WIPER
-Text Notes 8800 6250 0    50   ~ 0
-To pots board
-$Sheet
-S 2500 4500 1000 500 
-U 61647DC3
-F0 "Pots board" 50
-F1 "pots.sch" 50
-$EndSheet
-$Comp
-L ao_symbols:Graphic GRAF2
-U 1 1 61654F26
-P 8100 4400
-F 0 "GRAF2" H 8378 4446 50  0000 L CNN
-F 1 "Holes" H 8378 4355 50  0000 L CNN
-F 2 "joystick_pcb:joystick_panel_holes" H 8100 4400 50  0001 C CNN
-F 3 "" H 8100 4400 50  0001 C CNN
-F 4 "DNF" H 8100 4400 50  0001 C CNN "Config"
-	1    8100 4400
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR0124
-U 1 1 61693B6E
-P 9400 4850
-F 0 "#PWR0124" H 9400 4600 50  0001 C CNN
-F 1 "GND" H 9405 4677 50  0000 C CNN
-F 2 "" H 9400 4850 50  0001 C CNN
-F 3 "" H 9400 4850 50  0001 C CNN
-	1    9400 4850
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	9400 4850 9200 4850
-Wire Wire Line
-	9200 4850 9200 5050
-Wire Wire Line
-	9200 5050 9000 5050
 $Comp
 L ao_symbols:MountingHole H?
 U 1 1 616A3F65
@@ -909,17 +851,154 @@ F 4 "DNF" H 7050 4250 50  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L ao_symbols:MountingHole H?
-U 1 1 616A3F73
-P 7050 4550
-AR Path="/61647DC3/616A3F73" Ref="H?"  Part="1" 
-AR Path="/616A3F73" Ref="H3"  Part="1" 
-F 0 "H3" H 7150 4596 50  0000 L CNN
-F 1 "MountingHole" H 7150 4505 50  0000 L CNN
-F 2 "ao_tht:MountingHole_3.2mm_M3" H 7050 4550 50  0001 C CNN
-F 3 "" H 7050 4550 50  0001 C CNN
-F 4 "DNF" H 7050 4550 50  0001 C CNN "Config"
-	1    7050 4550
+L ao_symbols:3_pin_Molex_header J9
+U 1 1 617A1A9B
+P 9150 3900
+F 0 "J9" V 9350 3900 50  0000 R CNN
+F 1 "3_pin_Molex_header" V 9250 4200 50  0000 R CNN
+F 2 "ao_tht:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical" H 9150 3900 50  0001 C CNN
+F 3 "" H 9150 3900 50  0001 C CNN
+F 4 "Tayda" H 9150 3900 50  0001 C CNN "Vendor"
+F 5 "A-805" H 9150 3900 50  0001 C CNN "SKU"
+	1    9150 3900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ao_symbols:2_pin_Molex_header J10
+U 1 1 617A0EFA
+P 9900 3900
+F 0 "J10" V 10100 3900 50  0000 R CNN
+F 1 "2_pin_Molex_header" V 10000 4150 50  0000 R CNN
+F 2 "ao_tht:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 9900 3900 50  0001 C CNN
+F 3 "" H 9900 3900 50  0001 C CNN
+F 4 "Tayda" H 9900 3900 50  0001 C CNN "Vendor"
+F 5 "A-804" H 9900 3900 50  0001 C CNN "SKU"
+	1    9900 3900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5650 3850 5900 3850
+Text GLabel 5900 5500 3    50   BiDi ~ 0
+XRANGEPOT_WIPER_P
+Text GLabel 6000 5500 3    50   BiDi ~ 0
+XRANGEPOT_CCW_P
+Text GLabel 5050 5500 3    50   Output ~ 0
+XOFFPOT_CCW_P
+Text GLabel 4950 5500 3    50   Input ~ 0
+XOFFPOT_WIPER_P
+Text GLabel 4850 5500 3    50   Output ~ 0
+XOFFPOT_CW_P
+$Comp
+L Device:R_POT RV1
+U 1 1 617C329F
+P 5900 4000
+AR Path="/617C329F" Ref="RV1"  Part="1" 
+AR Path="/61647DC3/617C329F" Ref="RV?"  Part="1" 
+F 0 "RV1" H 5800 3950 50  0000 R CNN
+F 1 "B100k" H 5800 4050 50  0000 R CNN
+F 2 "ao_tht:Potentiometer_Alpha_16mm_Single_Vertical" H 5900 4000 50  0001 C CNN
+F 3 "~" H 5900 4000 50  0001 C CNN
+	1    5900 4000
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5600 4150 5900 4150
+Wire Wire Line
+	5650 4000 5750 4000
+Text GLabel 5600 4700 0    50   Input ~ 0
+XOFFPOT_CCW_P
+Text GLabel 5600 4600 0    50   Output ~ 0
+XOFFPOT_WIPER_P
+Text GLabel 5600 4500 0    50   Input ~ 0
+XOFFPOT_CW_P
+Text GLabel 5600 4150 0    50   BiDi ~ 0
+XRANGEPOT_CCW_P
+Text GLabel 5600 4000 0    50   BiDi ~ 0
+XRANGEPOT_WIPER_P
+Connection ~ 5650 4000
+Wire Wire Line
+	5600 4000 5650 4000
+Wire Wire Line
+	5650 4000 5650 3850
+Wire Wire Line
+	5650 4600 5600 4600
+Wire Wire Line
+	5650 4650 5650 4600
+Wire Wire Line
+	5750 4650 5650 4650
+Wire Wire Line
+	5600 4500 5900 4500
+Wire Wire Line
+	5650 4800 5900 4800
+Wire Wire Line
+	5650 4700 5650 4800
+$Comp
+L Device:R_POT RV2
+U 1 1 617C3288
+P 5900 4650
+AR Path="/617C3288" Ref="RV2"  Part="1" 
+AR Path="/61647DC3/617C3288" Ref="RV?"  Part="1" 
+F 0 "RV2" H 5830 4604 50  0000 R CNN
+F 1 "B100k" H 5830 4695 50  0000 R CNN
+F 2 "ao_tht:Potentiometer_Alpha_16mm_Single_Vertical" H 5900 4650 50  0001 C CNN
+F 3 "~" H 5900 4650 50  0001 C CNN
+	1    5900 4650
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5600 4700 5650 4700
+$Comp
+L ao_symbols:2_pin_Molex_connector J8
+U 1 1 617A23C9
+P 5900 5300
+F 0 "J8" V 6100 5300 50  0000 R CNN
+F 1 "2_pin_Molex_connector" V 6000 5700 50  0000 R CNN
+F 2 "" H 5900 5300 50  0001 C CNN
+F 3 "" H 5900 5300 50  0001 C CNN
+F 4 "Tayda" H 5900 5300 50  0001 C CNN "Vendor"
+F 5 "A-826" H 5900 5300 50  0001 C CNN "SKU"
+	1    5900 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ao_symbols:3_pin_Molex_connector J5
+U 1 1 617A05D5
+P 4950 5300
+F 0 "J5" V 5150 5300 50  0000 R CNN
+F 1 "3_pin_Molex_connector" V 5050 5700 50  0000 R CNN
+F 2 "" H 4950 5300 50  0001 C CNN
+F 3 "" H 4950 5300 50  0001 C CNN
+F 4 "Tayda" H 4950 5300 50  0001 C CNN "Vendor"
+F 5 "A-827" H 4950 5300 50  0001 C CNN "SKU"
+	1    4950 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ao_symbols:Graphic GRAF?
+U 1 1 6185332E
+P 8100 4450
+AR Path="/6157E61D/6185332E" Ref="GRAF?"  Part="1" 
+AR Path="/6185332E" Ref="GRAF2"  Part="1" 
+F 0 "GRAF2" H 8378 4496 50  0000 L CNN
+F 1 "AO logo" H 8378 4405 50  0000 L CNN
+F 2 "ao_tht:analogoutput_12mm" H 8100 4450 50  0001 C CNN
+F 3 "" H 8100 4450 50  0001 C CNN
+F 4 "DNF" H 8100 4450 50  0001 C CNN "Config"
+	1    8100 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ao_symbols:Graphic GRAF?
+U 1 1 61853335
+P 8100 4750
+AR Path="/6157E61D/61853335" Ref="GRAF?"  Part="1" 
+AR Path="/61853335" Ref="GRAF3"  Part="1" 
+F 0 "GRAF3" H 8378 4796 50  0000 L CNN
+F 1 "CC0 logo" H 8378 4705 50  0000 L CNN
+F 2 "ao_tht:CC0_logo" H 8100 4750 50  0001 C CNN
+F 3 "" H 8100 4750 50  0001 C CNN
+F 4 "DNF" H 8100 4750 50  0001 C CNN "Config"
+	1    8100 4750
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
