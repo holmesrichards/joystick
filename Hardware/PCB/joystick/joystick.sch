@@ -648,8 +648,6 @@ F 4 "Tayda" H 4000 2100 50  0001 C CNN "Vendor"
 $EndComp
 Text Notes 7650 2950 0    50   ~ 0
 ∓4.8 V + 3(±1.6 V)
-Text Notes 2750 3300 0    50   ~ 0
-±1.6 V (nominally)
 Text Notes 5150 2200 0    50   ~ 0
 ±4.8 V + 3(±1.6 V)
 Text Notes 6050 3400 0    50   ~ 0
@@ -697,7 +695,7 @@ L ao_symbols:R R4
 U 1 1 609A7ECA
 P 2600 2950
 F 0 "R4" H 2670 2996 50  0000 L CNN
-F 1 "330k" H 2670 2905 50  0000 L CNN
+F 1 "300k" H 2670 2905 50  0000 L CNN
 F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2530 2950 50  0001 C CNN
 F 3 "~" H 2600 2950 50  0001 C CNN
 F 4 "Tayda" H 2600 2950 50  0001 C CNN "Vendor"
@@ -709,7 +707,7 @@ L ao_symbols:R R5
 U 1 1 609A8185
 P 2600 3650
 F 0 "R5" H 2670 3696 50  0000 L CNN
-F 1 "330k" H 2670 3605 50  0000 L CNN
+F 1 "300k" H 2670 3605 50  0000 L CNN
 F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2530 3650 50  0001 C CNN
 F 3 "~" H 2600 3650 50  0001 C CNN
 F 4 "Tayda" H 2600 3650 50  0001 C CNN "Vendor"
@@ -1413,4 +1411,6 @@ Wire Wire Line
 Connection ~ 2550 2000
 Text Notes 6250 4850 0    50   ~ 0
 Check pot for reasonably\naccurate 100k from \npin 1 to 3 or compensate\nby adjusting fixed\nresistors.\n
+Text Notes 3100 3750 0    50   ~ 0
+±1.6 V (approx.,\ndepending on actual\npot value, PSU voltage,\nand Schottky diode\ndrop)
 $EndSCHEMATC

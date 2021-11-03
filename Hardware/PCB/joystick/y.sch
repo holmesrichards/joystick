@@ -322,7 +322,7 @@ L ao_symbols:R R18
 U 1 1 6158FA45
 P 3350 3100
 F 0 "R18" H 3420 3146 50  0000 L CNN
-F 1 "330k" H 3420 3055 50  0000 L CNN
+F 1 "300k" H 3420 3055 50  0000 L CNN
 F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3280 3100 50  0001 C CNN
 F 3 "~" H 3350 3100 50  0001 C CNN
 F 4 "Tayda" H 3350 3100 50  0001 C CNN "Vendor"
@@ -334,7 +334,7 @@ L ao_symbols:R R19
 U 1 1 6158FA4B
 P 3350 3800
 F 0 "R19" H 3420 3846 50  0000 L CNN
-F 1 "330k" H 3420 3755 50  0000 L CNN
+F 1 "300k" H 3420 3755 50  0000 L CNN
 F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3280 3800 50  0001 C CNN
 F 3 "~" H 3350 3800 50  0001 C CNN
 F 4 "Tayda" H 3350 3800 50  0001 C CNN "Vendor"
@@ -722,8 +722,8 @@ F 5 "Tayda" H 4050 2250 50  0001 C CNN "Vendor"
 	1    4050 2250
 	1    0    0    1   
 $EndComp
-Text Notes 3500 3450 0    50   ~ 0
-±1.6 V (nominally)
+Text Notes 3850 3900 0    50   ~ 0
+±1.6 V (approx.,\ndepending on actual\npot value, PSU voltage,\nand Schottky diode\ndrop)
 Wire Wire Line
 	4450 2250 4400 2250
 Wire Wire Line
