@@ -304,11 +304,11 @@ F 4 "Tayda" H 4750 2250 50  0001 C CNN "Vendor"
 	0    1    1    0   
 $EndComp
 Text Notes 8400 3100 0    50   ~ 0
-∓4.8 V + 3(±1.6 V)
+∓5 V with ±5 V offset
 Text Notes 5900 2350 0    50   ~ 0
-±4.8 V + 3(±1.6 V)
+±5 V with ±5 V offset
 Text Notes 6800 3550 0    50   ~ 0
-3(±1.6 V)
+±5 V
 Wire Wire Line
 	2650 3450 5050 3450
 Text Notes 2600 2150 0    50   ~ 0
@@ -322,7 +322,7 @@ L ao_symbols:R R18
 U 1 1 6158FA45
 P 3350 3100
 F 0 "R18" H 3420 3146 50  0000 L CNN
-F 1 "300k" H 3420 3055 50  0000 L CNN
+F 1 "300k*" H 3420 3055 50  0000 L CNN
 F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3280 3100 50  0001 C CNN
 F 3 "~" H 3350 3100 50  0001 C CNN
 F 4 "Tayda" H 3350 3100 50  0001 C CNN "Vendor"
@@ -334,7 +334,7 @@ L ao_symbols:R R19
 U 1 1 6158FA4B
 P 3350 3800
 F 0 "R19" H 3420 3846 50  0000 L CNN
-F 1 "300k" H 3420 3755 50  0000 L CNN
+F 1 "300k*" H 3420 3755 50  0000 L CNN
 F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3280 3800 50  0001 C CNN
 F 3 "~" H 3350 3800 50  0001 C CNN
 F 4 "Tayda" H 3350 3800 50  0001 C CNN "Vendor"
@@ -693,7 +693,7 @@ F 3 "~" H 4650 2350 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 Text Notes 4350 2600 0    50   ~ 0
-∓2.4 V
+∓2.5 V
 Wire Wire Line
 	3700 2350 3700 2400
 Wire Wire Line
@@ -722,8 +722,8 @@ F 5 "Tayda" H 4050 2250 50  0001 C CNN "Vendor"
 	1    4050 2250
 	1    0    0    1   
 $EndComp
-Text Notes 3850 3900 0    50   ~ 0
-±1.6 V (approx.,\ndepending on actual\npot value, PSU voltage,\nand Schottky diode\ndrop)
+Text Notes 3700 4000 0    50   ~ 0
+* Adjust as needed for\n±1.67 V (approx.,\ndepending on actual\npot value, PSU voltage,\nand Schottky diode\ndrop)
 Wire Wire Line
 	4450 2250 4400 2250
 Wire Wire Line
@@ -737,7 +737,7 @@ Wire Wire Line
 Wire Wire Line
 	4400 2250 4350 2250
 Text Notes 2850 1850 0    50   ~ 0
-Adjust trimmer to \nget ±2.4 V at TP1
+Adjust trimmer to \nget ±2.5 V at TP1
 Wire Wire Line
 	1850 2150 2950 2150
 Connection ~ 4400 2250

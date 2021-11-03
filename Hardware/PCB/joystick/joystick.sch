@@ -647,15 +647,15 @@ F 4 "Tayda" H 4000 2100 50  0001 C CNN "Vendor"
 	0    1    1    0   
 $EndComp
 Text Notes 7650 2950 0    50   ~ 0
-∓4.8 V + 3(±1.6 V)
+∓5 V with ±5 V offset
 Text Notes 5150 2200 0    50   ~ 0
-±4.8 V + 3(±1.6 V)
+±5 V with ±5 V offset
 Text Notes 6050 3400 0    50   ~ 0
-3(±1.6 V)
+±5 V
 Wire Wire Line
 	1900 3300 4300 3300
 Text Notes 3600 2450 0    50   ~ 0
-∓2.4 V
+∓2.5 V
 $Comp
 L power:PWR_FLAG #FLG01
 U 1 1 60989E99
@@ -695,7 +695,7 @@ L ao_symbols:R R4
 U 1 1 609A7ECA
 P 2600 2950
 F 0 "R4" H 2670 2996 50  0000 L CNN
-F 1 "300k" H 2670 2905 50  0000 L CNN
+F 1 "300k*" H 2670 2905 50  0000 L CNN
 F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2530 2950 50  0001 C CNN
 F 3 "~" H 2600 2950 50  0001 C CNN
 F 4 "Tayda" H 2600 2950 50  0001 C CNN "Vendor"
@@ -707,7 +707,7 @@ L ao_symbols:R R5
 U 1 1 609A8185
 P 2600 3650
 F 0 "R5" H 2670 3696 50  0000 L CNN
-F 1 "300k" H 2670 3605 50  0000 L CNN
+F 1 "300k*" H 2670 3605 50  0000 L CNN
 F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2530 3650 50  0001 C CNN
 F 3 "~" H 2600 3650 50  0001 C CNN
 F 4 "Tayda" H 2600 3650 50  0001 C CNN "Vendor"
@@ -1381,7 +1381,7 @@ F 5 "~" H 2700 2000 50  0001 C CNN "SKU"
 	0    1    1    0   
 $EndComp
 Text Notes 2100 1700 0    50   ~ 0
-Adjust trimmer to \nget ±2.4 V at TP1
+Adjust trimmer to \nget ±2.5 V at TP1
 $Comp
 L Connector:TestPoint TP1
 U 1 1 6183FDB0
@@ -1411,6 +1411,6 @@ Wire Wire Line
 Connection ~ 2550 2000
 Text Notes 6250 4850 0    50   ~ 0
 Check pot for reasonably\naccurate 100k from \npin 1 to 3 or compensate\nby adjusting fixed\nresistors.\n
-Text Notes 3100 3750 0    50   ~ 0
-±1.6 V (approx.,\ndepending on actual\npot value, PSU voltage,\nand Schottky diode\ndrop)
+Text Notes 2950 3850 0    50   ~ 0
+* Adjust as needed for\n±1.67 V (approx.,\ndepending on actual\npot value, PSU voltage,\nand Schottky diode\ndrop)
 $EndSCHEMATC
