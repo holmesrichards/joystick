@@ -263,23 +263,23 @@ F 5 "Tayda" H 3300 2100 50  0001 C CNN "Vendor"
 	1    0    0    1   
 $EndComp
 $Comp
-L ao_symbols:R R5
+L ao_symbols:R R3
 U 1 1 5FC19D49
-P 2650 2000
-F 0 "R5" V 2443 2000 50  0000 C CNN
-F 1 "120k" V 2534 2000 50  0000 C CNN
-F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2580 2000 50  0001 C CNN
-F 3 "~" H 2650 2000 50  0001 C CNN
-F 4 "Tayda" H 2650 2000 50  0001 C CNN "Vendor"
-	1    2650 2000
+P 2350 2000
+F 0 "R3" V 2143 2000 50  0000 C CNN
+F 1 "68k" V 2234 2000 50  0000 C CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2280 2000 50  0001 C CNN
+F 3 "~" H 2350 2000 50  0001 C CNN
+F 4 "Tayda" H 2350 2000 50  0001 C CNN "Vendor"
+	1    2350 2000
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	2800 2000 2950 2000
+	2500 2000 2550 2000
 Wire Wire Line
-	3800 1600 3800 2100
+	3650 1600 3650 2100
 Wire Wire Line
-	3800 2100 3700 2100
+	3650 2100 3700 2100
 Wire Wire Line
 	3050 1600 3000 1600
 Connection ~ 2950 2000
@@ -294,15 +294,13 @@ L ao_symbols:R R6
 U 1 1 5FC23DEA
 P 3200 1600
 F 0 "R6" V 2993 1600 50  0000 C CNN
-F 1 "10k" V 3084 1600 50  0000 C CNN
+F 1 "20k" V 3084 1600 50  0000 C CNN
 F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3130 1600 50  0001 C CNN
 F 3 "~" H 3200 1600 50  0001 C CNN
 F 4 "Tayda" H 3200 1600 50  0001 C CNN "Vendor"
 	1    3200 1600
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	3350 1600 3400 1600
 Wire Wire Line
 	3000 1300 3000 1600
 Wire Wire Line
@@ -322,7 +320,7 @@ Wire Wire Line
 	3000 2200 2950 2200
 Wire Wire Line
 	2950 2200 2950 2250
-Connection ~ 3800 2100
+Connection ~ 3650 2100
 $Comp
 L power:+12V #PWR05
 U 1 1 5FC2E2B8
@@ -389,9 +387,7 @@ Wire Wire Line
 	5750 7300 5300 7300
 Connection ~ 5300 7300
 Wire Wire Line
-	1100 2000 2500 2000
-Wire Wire Line
-	3800 2100 3850 2100
+	1100 2000 2200 2000
 Wire Wire Line
 	4300 2300 4300 3300
 Connection ~ 4300 3300
@@ -653,15 +649,13 @@ $EndComp
 Text Notes 7650 2950 0    50   ~ 0
 ∓4.8 V + 3(±1.6 V)
 Text Notes 2750 3300 0    50   ~ 0
-±1.6 V
+±1.6 V (nominally)
 Text Notes 5150 2200 0    50   ~ 0
 ±4.8 V + 3(±1.6 V)
 Text Notes 6050 3400 0    50   ~ 0
 3(±1.6 V)
 Wire Wire Line
 	1900 3300 4300 3300
-Text Notes 1850 2000 0    50   ~ 0
-±2.4 V
 Text Notes 3600 2450 0    50   ~ 0
 ∓2.4 V
 $Comp
@@ -699,10 +693,10 @@ Wire Wire Line
 Wire Wire Line
 	2600 3800 2600 3850
 $Comp
-L ao_symbols:R R3
+L ao_symbols:R R4
 U 1 1 609A7ECA
 P 2600 2950
-F 0 "R3" H 2670 2996 50  0000 L CNN
+F 0 "R4" H 2670 2996 50  0000 L CNN
 F 1 "330k" H 2670 2905 50  0000 L CNN
 F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2530 2950 50  0001 C CNN
 F 3 "~" H 2600 2950 50  0001 C CNN
@@ -711,10 +705,10 @@ F 4 "Tayda" H 2600 2950 50  0001 C CNN "Vendor"
 	1    0    0    -1  
 $EndComp
 $Comp
-L ao_symbols:R R4
+L ao_symbols:R R5
 U 1 1 609A8185
 P 2600 3650
-F 0 "R4" H 2670 3696 50  0000 L CNN
+F 0 "R5" H 2670 3696 50  0000 L CNN
 F 1 "330k" H 2670 3605 50  0000 L CNN
 F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2530 3650 50  0001 C CNN
 F 3 "~" H 2600 3650 50  0001 C CNN
@@ -1378,26 +1372,17 @@ $EndComp
 $Comp
 L ao_symbols:R_POT_TRIM_3296W RV1
 U 1 1 61838521
-P 3600 1600
-F 0 "RV1" V 3393 1600 50  0000 C CNN
-F 1 "20k" V 3484 1600 50  0000 C CNN
-F 2 "ao_tht:Potentiometer_Bourns_3296W_Vertical_screw_centered" H 3600 1600 50  0001 C CNN
-F 3 "~" H 3600 1600 50  0001 C CNN
-F 4 "Tayda" H 3600 1600 50  0001 C CNN "Vendor"
-F 5 "~" H 3600 1600 50  0001 C CNN "SKU"
-	1    3600 1600
+P 2700 2000
+F 0 "RV1" V 2493 2000 50  0000 C CNN
+F 1 "100k" V 2584 2000 50  0000 C CNN
+F 2 "ao_tht:Potentiometer_Bourns_3296W_Vertical_screw_centered" H 2700 2000 50  0001 C CNN
+F 3 "~" H 2700 2000 50  0001 C CNN
+F 4 "Tayda" H 2700 2000 50  0001 C CNN "Vendor"
+F 5 "~" H 2700 2000 50  0001 C CNN "SKU"
+	1    2700 2000
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	3750 1600 3800 1600
-Wire Wire Line
-	3400 1600 3400 1750
-Wire Wire Line
-	3400 1750 3600 1750
-Connection ~ 3400 1600
-Wire Wire Line
-	3400 1600 3450 1600
-Text Notes 3750 1550 0    50   ~ 0
+Text Notes 2100 1700 0    50   ~ 0
 Adjust trimmer to \nget ±2.4 V at TP1
 $Comp
 L Connector:TestPoint TP1
@@ -1414,7 +1399,18 @@ Wire Wire Line
 	3700 2200 3700 2100
 Connection ~ 3700 2100
 Wire Wire Line
-	3700 2100 3600 2100
-Text Notes 5600 3800 0    50   ~ 0
-Check pot for reasonably\naccurate 100k from \npin 1 to 3 (within 10k)\n
+	3650 2100 3600 2100
+Wire Wire Line
+	3700 2100 3850 2100
+Wire Wire Line
+	3350 1600 3650 1600
+Wire Wire Line
+	2850 2000 2950 2000
+Wire Wire Line
+	2550 2000 2550 2150
+Wire Wire Line
+	2550 2150 2700 2150
+Connection ~ 2550 2000
+Text Notes 6250 4850 0    50   ~ 0
+Check pot for reasonably\naccurate 100k from \npin 1 to 3 or compensate\nby adjusting fixed\nresistors.\n
 $EndSCHEMATC

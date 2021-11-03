@@ -14,18 +14,6 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L ao_symbols:R R19
-U 1 1 6158F95D
-P 3400 2150
-F 0 "R19" V 3193 2150 50  0000 C CNN
-F 1 "120k" V 3284 2150 50  0000 C CNN
-F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3330 2150 50  0001 C CNN
-F 3 "~" H 3400 2150 50  0001 C CNN
-F 4 "Tayda" H 3400 2150 50  0001 C CNN "Vendor"
-	1    3400 2150
-	0    1    1    0   
-$EndComp
-$Comp
 L power:+12V #PWR021
 U 1 1 6158F98B
 P 3350 2900
@@ -57,8 +45,6 @@ Wire Wire Line
 	2650 3550 3350 3550
 Wire Wire Line
 	1850 2250 2350 2250
-Wire Wire Line
-	1850 2150 3250 2150
 Wire Wire Line
 	5050 2450 5050 3450
 Connection ~ 5050 3450
@@ -319,8 +305,6 @@ F 4 "Tayda" H 4750 2250 50  0001 C CNN "Vendor"
 $EndComp
 Text Notes 8400 3100 0    50   ~ 0
 ∓4.8 V + 3(±1.6 V)
-Text Notes 3500 3450 0    50   ~ 0
-±1.6 V
 Text Notes 5900 2350 0    50   ~ 0
 ±4.8 V + 3(±1.6 V)
 Text Notes 6800 3550 0    50   ~ 0
@@ -334,10 +318,10 @@ Wire Wire Line
 Wire Wire Line
 	3350 3950 3350 4000
 $Comp
-L ao_symbols:R R17
+L ao_symbols:R R18
 U 1 1 6158FA45
 P 3350 3100
-F 0 "R17" H 3420 3146 50  0000 L CNN
+F 0 "R18" H 3420 3146 50  0000 L CNN
 F 1 "330k" H 3420 3055 50  0000 L CNN
 F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3280 3100 50  0001 C CNN
 F 3 "~" H 3350 3100 50  0001 C CNN
@@ -346,10 +330,10 @@ F 4 "Tayda" H 3350 3100 50  0001 C CNN "Vendor"
 	1    0    0    -1  
 $EndComp
 $Comp
-L ao_symbols:R R18
+L ao_symbols:R R19
 U 1 1 6158FA4B
 P 3350 3800
-F 0 "R18" H 3420 3846 50  0000 L CNN
+F 0 "R19" H 3420 3846 50  0000 L CNN
 F 1 "330k" H 3420 3755 50  0000 L CNN
 F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3280 3800 50  0001 C CNN
 F 3 "~" H 3350 3800 50  0001 C CNN
@@ -692,8 +676,6 @@ F 5 "A-826" H 5800 5600 50  0001 C CNN "SKU"
 	1    5800 5600
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	4450 2250 4350 2250
 Connection ~ 4450 2250
 Wire Wire Line
 	4450 2350 4450 2250
@@ -710,13 +692,6 @@ F 3 "~" H 4650 2350 50  0001 C CNN
 	1    4450 2350
 	-1   0    0    1   
 $EndComp
-Wire Wire Line
-	4150 1750 4200 1750
-Connection ~ 4150 1750
-Wire Wire Line
-	4150 1900 4350 1900
-Wire Wire Line
-	4150 1750 4150 1900
 Text Notes 4350 2600 0    50   ~ 0
 ∓2.4 V
 Wire Wire Line
@@ -734,37 +709,6 @@ F 3 "" H 3700 2400 50  0001 C CNN
 	1    3700 2400
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	3700 1350 3700 2150
-Wire Wire Line
-	3750 1450 3750 1750
-Wire Wire Line
-	4100 1750 4150 1750
-$Comp
-L ao_symbols:R R?
-U 1 1 61846A43
-P 3950 1750
-AR Path="/61846A43" Ref="R?"  Part="1" 
-AR Path="/6157E61D/61846A43" Ref="R20"  Part="1" 
-F 0 "R20" V 3743 1750 50  0000 C CNN
-F 1 "10k" V 3834 1750 50  0000 C CNN
-F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3880 1750 50  0001 C CNN
-F 3 "~" H 3950 1750 50  0001 C CNN
-F 4 "Tayda" H 3950 1750 50  0001 C CNN "Vendor"
-	1    3950 1750
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	4500 1350 3700 1350
-Wire Wire Line
-	4500 1450 3750 1450
-Wire Wire Line
-	3700 2150 3750 2150
-Connection ~ 3700 2150
-Wire Wire Line
-	3800 1750 3750 1750
-Wire Wire Line
-	3550 2150 3700 2150
 $Comp
 L ao_symbols:TL074 U2
 U 1 1 61846A35
@@ -778,28 +722,84 @@ F 5 "Tayda" H 4050 2250 50  0001 C CNN "Vendor"
 	1    4050 2250
 	1    0    0    1   
 $EndComp
+Text Notes 3500 3450 0    50   ~ 0
+±1.6 V (nominally)
+Wire Wire Line
+	4450 2250 4400 2250
+Wire Wire Line
+	3300 2300 3450 2300
+Wire Wire Line
+	3300 2150 3300 2300
+Wire Wire Line
+	3600 2150 3700 2150
+Wire Wire Line
+	4100 1750 4400 1750
+Wire Wire Line
+	4400 2250 4350 2250
+Text Notes 2850 1850 0    50   ~ 0
+Adjust trimmer to \nget ±2.4 V at TP1
+Wire Wire Line
+	1850 2150 2950 2150
+Connection ~ 4400 2250
+Wire Wire Line
+	3700 1350 3700 2150
+Wire Wire Line
+	3750 1450 3750 1750
+Wire Wire Line
+	4500 1350 3700 1350
+Wire Wire Line
+	4500 1450 3750 1450
+Wire Wire Line
+	3700 2150 3750 2150
+Connection ~ 3700 2150
+Wire Wire Line
+	3800 1750 3750 1750
+Wire Wire Line
+	4400 1750 4400 2250
+Wire Wire Line
+	3250 2150 3300 2150
 $Comp
 L ao_symbols:R_POT_TRIM_3296W RV?
 U 1 1 61846A57
-P 4350 1750
+P 3450 2150
 AR Path="/61846A57" Ref="RV?"  Part="1" 
 AR Path="/6157E61D/61846A57" Ref="RV4"  Part="1" 
-F 0 "RV4" V 4143 1750 50  0000 C CNN
-F 1 "20k" V 4234 1750 50  0000 C CNN
-F 2 "ao_tht:Potentiometer_Bourns_3296W_Vertical_screw_centered" H 4350 1750 50  0001 C CNN
-F 3 "~" H 4350 1750 50  0001 C CNN
-F 4 "Tayda" H 4350 1750 50  0001 C CNN "Vendor"
-F 5 "~" H 4350 1750 50  0001 C CNN "SKU"
-	1    4350 1750
+F 0 "RV4" V 3243 2150 50  0000 C CNN
+F 1 "100k" V 3334 2150 50  0000 C CNN
+F 2 "ao_tht:Potentiometer_Bourns_3296W_Vertical_screw_centered" H 3450 2150 50  0001 C CNN
+F 3 "~" H 3450 2150 50  0001 C CNN
+F 4 "Tayda" H 3450 2150 50  0001 C CNN "Vendor"
+F 5 "~" H 3450 2150 50  0001 C CNN "SKU"
+	1    3450 2150
 	0    1    1    0   
 $EndComp
+$Comp
+L ao_symbols:R R?
+U 1 1 61846A43
+P 3950 1750
+AR Path="/61846A43" Ref="R?"  Part="1" 
+AR Path="/6157E61D/61846A43" Ref="R20"  Part="1" 
+F 0 "R20" V 3743 1750 50  0000 C CNN
+F 1 "20k" V 3834 1750 50  0000 C CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3880 1750 50  0001 C CNN
+F 3 "~" H 3950 1750 50  0001 C CNN
+F 4 "Tayda" H 3950 1750 50  0001 C CNN "Vendor"
+	1    3950 1750
+	0    1    1    0   
+$EndComp
+$Comp
+L ao_symbols:R R17
+U 1 1 6158F95D
+P 3100 2150
+F 0 "R17" V 2893 2150 50  0000 C CNN
+F 1 "68k" V 2984 2150 50  0000 C CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3030 2150 50  0001 C CNN
+F 3 "~" H 3100 2150 50  0001 C CNN
+F 4 "Tayda" H 3100 2150 50  0001 C CNN "Vendor"
+	1    3100 2150
+	0    1    1    0   
+$EndComp
+Connection ~ 3300 2150
 Wire Wire Line
-	4450 2250 4550 2250
-Wire Wire Line
-	4500 1750 4550 1750
-Wire Wire Line
-	4550 1750 4550 2250
-Connection ~ 4550 2250
-Wire Wire Line
-	4550 2250 4600 2250
+	4450 2250 4600 2250
 $EndSCHEMATC
