@@ -1373,7 +1373,7 @@ U 1 1 61838521
 P 2700 2000
 F 0 "RV1" V 2493 2000 50  0000 C CNN
 F 1 "100k" V 2584 2000 50  0000 C CNN
-F 2 "ao_tht:Potentiometer_Bourns_3296W_Vertical_screw_centered" H 2700 2000 50  0001 C CNN
+F 2 "ao_tht:Potentiometer_Bourns_3296W_Vertical_standard" H 2700 2000 50  0001 C CNN
 F 3 "~" H 2700 2000 50  0001 C CNN
 F 4 "Tayda" H 2700 2000 50  0001 C CNN "Vendor"
 F 5 "~" H 2700 2000 50  0001 C CNN "SKU"

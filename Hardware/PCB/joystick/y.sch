@@ -766,7 +766,7 @@ AR Path="/61846A57" Ref="RV?"  Part="1"
 AR Path="/6157E61D/61846A57" Ref="RV4"  Part="1" 
 F 0 "RV4" V 3243 2150 50  0000 C CNN
 F 1 "100k" V 3334 2150 50  0000 C CNN
-F 2 "ao_tht:Potentiometer_Bourns_3296W_Vertical_screw_centered" H 3450 2150 50  0001 C CNN
+F 2 "ao_tht:Potentiometer_Bourns_3296W_Vertical_standard" H 3450 2150 50  0001 C CNN
 F 3 "~" H 3450 2150 50  0001 C CNN
 F 4 "Tayda" H 3450 2150 50  0001 C CNN "Vendor"
 F 5 "~" H 3450 2150 50  0001 C CNN "SKU"

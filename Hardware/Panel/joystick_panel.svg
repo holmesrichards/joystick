@@ -247,9 +247,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.85"
-     inkscape:cx="347.64706"
-     inkscape:cy="596.47059"
+     inkscape:zoom="1.7"
+     inkscape:cx="449.11765"
+     inkscape:cy="512.94118"
      inkscape:document-units="mm"
      inkscape:current-layer="layer16"
      showgrid="false"
@@ -1333,66 +1333,6 @@
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
        inkscape:export-xdpi="1000.0282"
        inkscape:export-ydpi="1000.0282" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="-6.7322836"
-       y="2.1259842"
-       id="text2788"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282"
-       transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"><tspan
-         sodipodi:role="line"
-         id="tspan2786"
-         x="-6.7322836"
-         y="2.1259842"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.0833333px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167">TP1</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="-7.3228345"
-       y="2.1259842"
-       id="text4553"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282"
-       transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"><tspan
-         sodipodi:role="line"
-         id="tspan4551"
-         x="-7.3228345"
-         y="2.1259842"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.0833333px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167">X GAIN</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="-6.7322836"
-       y="5.8070865"
-       id="text2788-8"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282"
-       transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"><tspan
-         sodipodi:role="line"
-         id="tspan2786-5"
-         x="-6.7322836"
-         y="5.8070865"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.0833333px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167">TP2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="-7.3228345"
-       y="5.8070865"
-       id="text4553-9"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282"
-       transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"><tspan
-         sodipodi:role="line"
-         id="tspan4551-7"
-         x="-7.3228345"
-         y="5.8070865"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.0833333px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167">Y GAIN</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1842,102 +1782,6 @@
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
        inkscape:export-xdpi="1000.0282"
        inkscape:export-ydpi="1000.0282" />
-    <g
-       id="g4395"
-       style="display:inline"
-       transform="translate(3.8732081,5.1378143)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282">
-      <circle
-         r="0.062992126"
-         style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle4720-7"
-         cx="-1.6291186"
-         cy="1.5944564" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -1.629122,1.5550862 v 0.07874"
-         id="path4722-5"
-         inkscape:connector-curvature="0" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -1.589748,1.5944573 h -0.07874"
-         id="path4724-9"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g4438"
-       style="display:inline"
-       transform="translate(7.2590349,5.1378143)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282">
-      <circle
-         r="0.062992126"
-         style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle4432"
-         cx="-1.6291186"
-         cy="1.5944564" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -1.629122,1.5550862 v 0.07874"
-         id="path4434"
-         inkscape:connector-curvature="0" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -1.589748,1.5944573 h -0.07874"
-         id="path4436"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g4528"
-       style="display:inline"
-       transform="translate(3.8732081,5.7283655)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282">
-      <circle
-         r="0.062992126"
-         style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle4522"
-         cx="-1.6291186"
-         cy="1.5944564" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -1.629122,1.5550862 v 0.07874"
-         id="path4524"
-         inkscape:connector-curvature="0" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -1.589748,1.5944573 h -0.07874"
-         id="path4526"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g4538"
-       style="display:inline"
-       transform="translate(7.2590349,5.7283655)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282">
-      <circle
-         r="0.062992126"
-         style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle4532"
-         cx="-1.6291186"
-         cy="1.5944564" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -1.629122,1.5550862 v 0.07874"
-         id="path4534"
-         inkscape:connector-curvature="0" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -1.589748,1.5944573 h -0.07874"
-         id="path4536"
-         inkscape:connector-curvature="0" />
-    </g>
   </g>
   <g
      inkscape:groupmode="layer"
