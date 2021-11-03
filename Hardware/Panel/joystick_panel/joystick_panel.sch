@@ -1826,4 +1826,48 @@ F 3 "" H 6450 4300 50  0001 C CNN
 	1    6450 4300
 	1    0    0    -1  
 $EndComp
+$Comp
+L Kosmo:Trimmer_Hole H17
+U 1 1 618B403B
+P 5100 4300
+F 0 "H17" H 5170 4346 50  0000 L CNN
+F 1 "Trimmer_Hole" H 5170 4255 50  0000 L CNN
+F 2 "Kosmo_panel:Kosmo_Trimmer_Pot_Hole" H 5010 4420 50  0001 C CNN
+F 3 "" H 5100 4300 50  0001 C CNN
+	1    5100 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Kosmo:Trimmer_Hole H18
+U 1 1 618B4477
+P 5100 4500
+F 0 "H18" H 5170 4546 50  0000 L CNN
+F 1 "Trimmer_Hole" H 5170 4455 50  0000 L CNN
+F 2 "Kosmo_panel:Kosmo_Trimmer_Pot_Hole" H 5010 4620 50  0001 C CNN
+F 3 "" H 5100 4500 50  0001 C CNN
+	1    5100 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Kosmo:Trimmer_Hole H19
+U 1 1 618B50EC
+P 5100 4700
+F 0 "H19" H 5170 4746 50  0000 L CNN
+F 1 "Trimmer_Hole" H 5170 4655 50  0000 L CNN
+F 2 "Kosmo_panel:Kosmo_Trimmer_Pot_Hole" H 5010 4820 50  0001 C CNN
+F 3 "" H 5100 4700 50  0001 C CNN
+	1    5100 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Kosmo:Trimmer_Hole H20
+U 1 1 618B50F2
+P 5100 4900
+F 0 "H20" H 5170 4946 50  0000 L CNN
+F 1 "Trimmer_Hole" H 5170 4855 50  0000 L CNN
+F 2 "Kosmo_panel:Kosmo_Trimmer_Pot_Hole" H 5010 5020 50  0001 C CNN
+F 3 "" H 5100 4900 50  0001 C CNN
+	1    5100 4900
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
