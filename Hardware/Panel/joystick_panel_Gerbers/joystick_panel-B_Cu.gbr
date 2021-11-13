@@ -2,7 +2,7 @@ G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,5.1.12-84ad8e8a86~92~ubuntu20.04.1*
 G04 #@! TF.CreationDate,2021-11-13T13:41:19-05:00*
 G04 #@! TF.ProjectId,joystick_panel,6a6f7973-7469-4636-9b5f-70616e656c2e,rev?*
 G04 #@! TF.SameCoordinates,Original*
-G04 #@! TF.FileFunction,Copper,L1,Top*
+G04 #@! TF.FileFunction,Copper,L2,Bot*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*

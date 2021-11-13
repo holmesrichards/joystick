@@ -398,29 +398,29 @@ $EndComp
 $Comp
 L ao_symbols:C C?
 U 1 1 615950D6
-P 9750 2150
+P 9750 2450
 AR Path="/615950D6" Ref="C?"  Part="1" 
 AR Path="/6157E61D/615950D6" Ref="C5"  Part="1" 
-F 0 "C5" H 9865 2196 50  0000 L CNN
-F 1 "0.1uF" H 9865 2105 50  0000 L CNN
-F 2 "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 9788 2000 50  0001 C CNN
-F 3 "~" H 9750 2150 50  0001 C CNN
-F 4 "Tayda" H 9750 2150 50  0001 C CNN "Vendor"
-	1    9750 2150
-	1    0    0    -1  
+F 0 "C5" H 9550 2500 50  0000 L CNN
+F 1 "0.1uF" H 9450 2400 50  0000 L CNN
+F 2 "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 9788 2300 50  0001 C CNN
+F 3 "~" H 9750 2450 50  0001 C CNN
+F 4 "Tayda" H 9750 2450 50  0001 C CNN "Vendor"
+	1    9750 2450
+	-1   0    0    1   
 $EndComp
 $Comp
 L ao_symbols:C C?
 U 1 1 615950DC
-P 9750 2450
+P 9750 2150
 AR Path="/615950DC" Ref="C?"  Part="1" 
 AR Path="/6157E61D/615950DC" Ref="C6"  Part="1" 
-F 0 "C6" H 9865 2496 50  0000 L CNN
-F 1 "0.1uF" H 9865 2405 50  0000 L CNN
-F 2 "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 9788 2300 50  0001 C CNN
-F 3 "~" H 9750 2450 50  0001 C CNN
-	1    9750 2450
-	1    0    0    -1  
+F 0 "C6" H 9550 2200 50  0000 L CNN
+F 1 "0.1uF" H 9450 2100 50  0000 L CNN
+F 2 "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 9788 2000 50  0001 C CNN
+F 3 "~" H 9750 2150 50  0001 C CNN
+	1    9750 2150
+	-1   0    0    1   
 $EndComp
 $Comp
 L power:GND #PWR?
@@ -437,7 +437,6 @@ F 3 "" H 9500 2300 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	9500 2300 9750 2300
-Connection ~ 9750 2300
 $Comp
 L power:+12V #PWR?
 U 1 1 615950EA
@@ -477,11 +476,10 @@ F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 10150 2500 50  0001 C CNN
 F 4 "A-1138" H 10100 2300 50  0001 C CNN "SKU"
 F 5 "Tayda" H 10100 2300 50  0001 C CNN "Vendor"
 	5    10100 2300
-	-1   0    0    1   
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	10200 2000 9750 2000
-Connection ~ 9750 2000
 Wire Wire Line
 	10200 2600 9750 2600
 Connection ~ 9750 2600
@@ -802,4 +800,6 @@ $EndComp
 Connection ~ 3300 2150
 Wire Wire Line
 	4450 2250 4600 2250
+Connection ~ 9750 2300
+Connection ~ 9750 2000
 $EndSCHEMATC

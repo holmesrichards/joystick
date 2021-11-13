@@ -14,33 +14,21 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L ao_symbols:1N5817 D1
+L ao_symbols:1N5817 D2
 U 1 1 5F73FA24
-P 3150 6800
-F 0 "D1" H 3150 6584 50  0000 C CNN
-F 1 "1N5817" H 3150 6675 50  0000 C CNN
-F 2 "ao_tht:D_DO-41_SOD81_P10.16mm_Horizontal" H 3150 6800 50  0001 C CNN
-F 3 "~" H 3150 6800 50  0001 C CNN
-F 4 "A-159" H 3150 6800 50  0001 C CNN "SKU"
-F 5 "Tayda" H 3150 6800 50  0001 C CNN "Vendor"
-	1    3150 6800
-	-1   0    0    1   
-$EndComp
-$Comp
-L ao_symbols:CP C1
-U 1 1 5F73FA30
-P 4650 6850
-F 0 "C1" H 4768 6896 50  0000 L CNN
-F 1 "10uF" H 4768 6805 50  0000 L CNN
-F 2 "ao_tht:CP_Radial_D6.3mm_P2.50mm" H 4688 6700 50  0001 C CNN
-F 3 "~" H 4650 6850 50  0001 C CNN
-F 4 "Tayda" H 4650 6850 50  0001 C CNN "Vendor"
-	1    4650 6850
+P 3150 7200
+F 0 "D2" H 3150 6984 50  0000 C CNN
+F 1 "1N5817" H 3150 7075 50  0000 C CNN
+F 2 "ao_tht:D_DO-41_SOD81_P10.16mm_Horizontal" H 3150 7200 50  0001 C CNN
+F 3 "~" H 3150 7200 50  0001 C CNN
+F 4 "A-159" H 3150 7200 50  0001 C CNN "SKU"
+F 5 "Tayda" H 3150 7200 50  0001 C CNN "Vendor"
+	1    3150 7200
 	1    0    0    -1  
 $EndComp
 $Comp
 L ao_symbols:CP C2
-U 1 1 5F73FA36
+U 1 1 5F73FA30
 P 4650 7150
 F 0 "C2" H 4768 7196 50  0000 L CNN
 F 1 "10uF" H 4768 7105 50  0000 L CNN
@@ -48,6 +36,18 @@ F 2 "ao_tht:CP_Radial_D6.3mm_P2.50mm" H 4688 7000 50  0001 C CNN
 F 3 "~" H 4650 7150 50  0001 C CNN
 F 4 "Tayda" H 4650 7150 50  0001 C CNN "Vendor"
 	1    4650 7150
+	1    0    0    -1  
+$EndComp
+$Comp
+L ao_symbols:CP C1
+U 1 1 5F73FA36
+P 4650 6850
+F 0 "C1" H 4768 6896 50  0000 L CNN
+F 1 "10uF" H 4768 6805 50  0000 L CNN
+F 2 "ao_tht:CP_Radial_D6.3mm_P2.50mm" H 4688 6700 50  0001 C CNN
+F 3 "~" H 4650 6850 50  0001 C CNN
+F 4 "Tayda" H 4650 6850 50  0001 C CNN "Vendor"
+	1    4650 6850
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -62,20 +62,8 @@ F 3 "" H 4350 7000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L ao_symbols:C C3
-U 1 1 5F73FA42
-P 5300 6850
-F 0 "C3" H 5415 6896 50  0000 L CNN
-F 1 "0.1uF" H 5415 6805 50  0000 L CNN
-F 2 "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 5338 6700 50  0001 C CNN
-F 3 "~" H 5300 6850 50  0001 C CNN
-F 4 "Tayda" H 5300 6850 50  0001 C CNN "Vendor"
-	1    5300 6850
-	1    0    0    -1  
-$EndComp
-$Comp
 L ao_symbols:C C4
-U 1 1 5F73FA48
+U 1 1 5F73FA42
 P 5300 7150
 F 0 "C4" H 5415 7196 50  0000 L CNN
 F 1 "0.1uF" H 5415 7105 50  0000 L CNN
@@ -83,6 +71,18 @@ F 2 "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 5338 7000 50  0001 C CNN
 F 3 "~" H 5300 7150 50  0001 C CNN
 F 4 "Tayda" H 5300 7150 50  0001 C CNN "Vendor"
 	1    5300 7150
+	1    0    0    -1  
+$EndComp
+$Comp
+L ao_symbols:C C3
+U 1 1 5F73FA48
+P 5300 6850
+F 0 "C3" H 5415 6896 50  0000 L CNN
+F 1 "0.1uF" H 5415 6805 50  0000 L CNN
+F 2 "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 5338 6700 50  0001 C CNN
+F 3 "~" H 5300 6850 50  0001 C CNN
+F 4 "Tayda" H 5300 6850 50  0001 C CNN "Vendor"
+	1    5300 6850
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -233,17 +233,17 @@ $EndComp
 Connection ~ 2450 7200
 Connection ~ 2450 6800
 $Comp
-L ao_symbols:1N5817 D2
+L ao_symbols:1N5817 D1
 U 1 1 5F922321
-P 3150 7200
-F 0 "D2" H 3150 6984 50  0000 C CNN
-F 1 "1N5817" H 3150 7075 50  0000 C CNN
-F 2 "ao_tht:D_DO-41_SOD81_P10.16mm_Horizontal" H 3150 7200 50  0001 C CNN
-F 3 "~" H 3150 7200 50  0001 C CNN
-F 4 "A-159" H 3150 7200 50  0001 C CNN "SKU"
-F 5 "Tayda" H 3150 7200 50  0001 C CNN "Vendor"
-	1    3150 7200
-	1    0    0    -1  
+P 3150 6800
+F 0 "D1" H 3150 6584 50  0000 C CNN
+F 1 "1N5817" H 3150 6675 50  0000 C CNN
+F 2 "ao_tht:D_DO-41_SOD81_P10.16mm_Horizontal" H 3150 6800 50  0001 C CNN
+F 3 "~" H 3150 6800 50  0001 C CNN
+F 4 "A-159" H 3150 6800 50  0001 C CNN "SKU"
+F 5 "Tayda" H 3150 6800 50  0001 C CNN "Vendor"
+	1    3150 6800
+	-1   0    0    1   
 $EndComp
 Text Label 2550 6800 0    50   ~ 0
 +12_IN
@@ -378,7 +378,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 5700 7200 50  0001 C CNN
 F 4 "A-1138" H 5650 7000 50  0001 C CNN "SKU"
 F 5 "Tayda" H 5650 7000 50  0001 C CNN "Vendor"
 	5    5650 7000
-	-1   0    0    1   
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	5750 6700 5300 6700
