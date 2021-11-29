@@ -10,3 +10,7 @@ There are no trimmers to adjust the offset ranges, because I care less about tha
 | 90k–100k | 270k |
 | 100k–110k | 300k |
 | 110k–120k | 330k |
+
+## Errata
+
+On the first run of PCBs, R2 is shown on the silkscreen as 15k. It should be 20k. This has been fixed in the KiCad files and Gerbers.

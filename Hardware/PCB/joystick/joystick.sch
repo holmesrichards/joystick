@@ -750,7 +750,7 @@ L ao_symbols:R R2
 U 1 1 609BE3FA
 P 1600 2350
 F 0 "R2" H 1670 2396 50  0000 L CNN
-F 1 "15k" H 1670 2305 50  0000 L CNN
+F 1 "20k" H 1670 2305 50  0000 L CNN
 F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 1530 2350 50  0001 C CNN
 F 3 "~" H 1600 2350 50  0001 C CNN
 F 4 "Tayda" H 1600 2350 50  0001 C CNN "Vendor"
@@ -1412,5 +1412,5 @@ Connection ~ 2550 2000
 Text Notes 6250 4850 0    50   ~ 0
 Check pot for reasonably\naccurate 100k from \npin 1 to 3 or compensate\nby adjusting fixed\nresistors.\n
 Text Notes 2950 3850 0    50   ~ 0
-* Adjust as needed for\n±1.67 V (approx.,\ndepending on actual\npot value, PSU voltage,\nand Schottky diode\ndrop)
+* Adjust as needed for\n±1.67 V at wiper (approx.,\ndepending on actual\npot value, PSU voltage,\nand Schottky diode\ndrop)
 $EndSCHEMATC
