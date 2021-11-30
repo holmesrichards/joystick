@@ -354,14 +354,14 @@ Wire Wire Line
 $Comp
 L Connector_Generic:Conn_01x06 J5
 U 1 1 5FC3342B
-P 7200 5850
-F 0 "J5" H 7200 5350 50  0000 C CNN
-F 1 "6 pin Molex header" H 7200 5450 50  0000 C CNN
-F 2 "Connector_Molex:Molex_KK-254_AE-6410-06A_1x06_P2.54mm_Vertical" H 7200 5850 50  0001 C CNN
-F 3 "~" H 7200 5850 50  0001 C CNN
-F 4 "Tayda" H 7200 5850 50  0001 C CNN "Vendor"
-	1    7200 5850
-	-1   0    0    1   
+P 9300 5450
+F 0 "J5" V 9500 5400 50  0000 C CNN
+F 1 "6 pin Molex header" V 9400 5400 50  0000 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-06A_1x06_P2.54mm_Vertical" H 9300 5450 50  0001 C CNN
+F 3 "~" H 9300 5450 50  0001 C CNN
+F 4 "Tayda" H 9300 5450 50  0001 C CNN "Vendor"
+	1    9300 5450
+	0    -1   -1   0   
 $EndComp
 Wire Wire Line
 	1100 1900 1600 1900
@@ -815,20 +815,18 @@ Text GLabel 1100 2000 0    50   Input ~ 0
 XPOT_WIPER
 Text GLabel 1100 2100 0    50   Output ~ 0
 XPOT_CCW
-Text GLabel 7400 5850 2    50   Input ~ 0
+Text GLabel 9300 5650 3    50   Input ~ 0
 XPOT_CW
-Text GLabel 7400 5950 2    50   Output ~ 0
+Text GLabel 9200 5650 3    50   Output ~ 0
 XPOT_WIPER
-Text GLabel 7400 6050 2    50   Input ~ 0
+Text GLabel 9100 5650 3    50   Input ~ 0
 XPOT_CCW
-Text GLabel 7400 5550 2    50   Input ~ 0
+Text GLabel 9600 5650 3    50   Input ~ 0
 YPOT_CW
-Text GLabel 7400 5650 2    50   Output ~ 0
+Text GLabel 9500 5650 3    50   Output ~ 0
 YPOT_WIPER
-Text GLabel 7400 5750 2    50   Input ~ 0
+Text GLabel 9400 5650 3    50   Input ~ 0
 YPOT_CCW
-Text Notes 7050 6200 0    50   ~ 0
-To joystick
 Text GLabel 9050 4100 3    50   Input ~ 0
 XOFFPOT_CW
 Text GLabel 9150 4100 3    50   Output ~ 0
@@ -1413,4 +1411,51 @@ Text Notes 6250 4850 0    50   ~ 0
 Check pot for reasonably\naccurate 100k from \npin 1 to 3 or compensate\nby adjusting fixed\nresistors.\n
 Text Notes 2950 3850 0    50   ~ 0
 * Adjust as needed for\n±1.67 V at wiper (approx.,\ndepending on actual\npot value, PSU voltage,\nand Schottky diode\ndrop)
+$Comp
+L Connector_Generic:Conn_01x06 J15
+U 1 1 61A72ED0
+P 6950 5300
+F 0 "J15" V 7150 5250 50  0000 C CNN
+F 1 "6 pin Molex connector" V 7050 5250 50  0000 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-06A_1x06_P2.54mm_Vertical" H 6950 5300 50  0001 C CNN
+F 3 "~" H 6950 5300 50  0001 C CNN
+F 4 "Tayda" H 6950 5300 50  0001 C CNN "Vendor"
+	1    6950 5300
+	0    -1   -1   0   
+$EndComp
+Text GLabel 6950 5500 3    50   Output ~ 0
+XPOT_CW_P
+Text GLabel 6850 5500 3    50   Input ~ 0
+XPOT_WIPER_P
+Text GLabel 6750 5500 3    50   Output ~ 0
+XPOT_CCW_P
+Text GLabel 7250 5500 3    50   Output ~ 0
+YPOT_CW_P
+Text GLabel 7150 5500 3    50   Input ~ 0
+YPOT_WIPER_P
+Text GLabel 7050 5500 3    50   Output ~ 0
+YPOT_CCW_P
+$Comp
+L joystick:Joystick RV7
+U 1 1 61A7D383
+P 3500 4650
+F 0 "RV7" H 3558 5065 50  0000 C CNN
+F 1 "Joystick" H 3558 4974 50  0000 C CNN
+F 2 "" H 3500 4650 50  0001 C CNN
+F 3 "" H 3500 4650 50  0001 C CNN
+	1    3500 4650
+	1    0    0    -1  
+$EndComp
+Text GLabel 3650 5000 3    50   Input ~ 0
+XPOT_CW_P
+Text GLabel 3500 5000 3    50   Output ~ 0
+XPOT_WIPER_P
+Text GLabel 3350 5000 3    50   Input ~ 0
+XPOT_CCW_P
+Text GLabel 3850 4500 2    50   Input ~ 0
+YPOT_CW_P
+Text GLabel 3850 4650 2    50   Output ~ 0
+YPOT_WIPER_P
+Text GLabel 3850 4800 2    50   Input ~ 0
+YPOT_CCW_P
 $EndSCHEMATC

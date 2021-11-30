@@ -1,6 +1,35 @@
-This is a work in progress; better README to come soon. Meanwhile:
+# Analog Output Joystick
 
-**Untested hardware and software — Do not assume anything works!**
+This is a Kosmo format synth module that provides an interface for an analog joystick. The X and Y outputs provide control voltages that vary with the horizontal and vertical positions, respectively, of the joystick.
+
+There are range control pots for X and Y. These adjust the width of the control voltage range. With the width fully clockwise the control voltage range is about 10 V end to end.
+
+There also are offset control pots. These add a DC offset of between -5 V and 5 V to the output. So with the range pot at maximum and the offset pot centered the output voltage ranges from about -5 V to 5 V; with the offset pot fully clockwise the output voltage range is about 0 V to 10 V.
+
+The X output voltage increases as you move the joystick from left to right, and Y increases from down to up. There also are two inverted output jacks; here the X output increases from right to left and the Y increases from up to down. Both outputs have the same range and same offset (with same sign), so for instance if the regular output is from 0 V to 10 V left to right, the inverted output will be 10 V to 0 V left to right.
+
+
+## Photos
+
+![](Images/front.jpg)
+
+![](Images/back.jpg)
+
+
+## Documentation
+
+* [Schematic](Docs/joystick.pdf)
+* PCB layout: [front](Docs/joystick_layout_front.pdf), [back](Docs/joystick_layout_back.pdf)
+* [BOM](Docs/joystick_bom.md)
+* [Build notes](Docs/build.md)
+* [How it works](Docs/howitworks.md)
+
+## GitHub repository
+
+* [https://github.com/holmesrichards/WaveShaper](https://github.com/holmesrichards/joystick)
+
+
+## Submodules
 
 This repo uses submodules aoKicad and Kosmo_panel, which provide needed libaries for KiCad. To clone:
 
