@@ -26,7 +26,7 @@ The X output voltage increases as you move the joystick from left to right, and 
 
 ## GitHub repository
 
-* [https://github.com/holmesrichards/WaveShaper](https://github.com/holmesrichards/joystick)
+* [https://github.com/holmesrichards/joystick](https://github.com/holmesrichards/joystick)
 
 
 ## Submodules
