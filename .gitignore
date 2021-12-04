@@ -29,11 +29,6 @@ fp-info-cache
 *.csv
 ##########################
 
-# Additional ignored
-
-# *cache.lib files, bad idea? But I haven't regretted it yet.
-*cache*
-
 # Compressed files
 *.zip
 
