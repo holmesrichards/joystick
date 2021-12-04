@@ -335,11 +335,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.7"
-     inkscape:cx="405"
-     inkscape:cy="725.29412"
+     inkscape:zoom="0.85"
+     inkscape:cx="254.70588"
+     inkscape:cy="597.64706"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="in"
      inkscape:window-width="1920"
@@ -855,16 +855,133 @@
        height="7.8740158"
        x="1.968504"
        y="1.9685013"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Behind panel 1"
      style="display:none"
-     sodipodi:insensitive="true" />
+     sodipodi:insensitive="true">
+    <path
+       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 2.7825122,5.9736483 c -0.02699,0.034185 -0.05397,0.068356 -0.082758,0.1038037 -0.028788,0.035447 -0.059387,0.072174 -0.1011513,0.1003256 -0.041764,0.028152 -0.094761,0.047761 -0.128364,0.062604 -0.033603,0.014843 -0.047777,0.024914 -0.053951,0.029033 -0.00617,0.00412 -0.00432,0.00227 -0.0116,0.00374 -0.00728,0.00147 -0.023745,0.00627 -0.034798,0.012907 -0.011053,0.00664 -0.016606,0.015074 -0.022143,0.023484"
+       id="path1272"
+       inkscape:path-effect="#path-effect1274"
+       inkscape:original-d="m 2.7825122,5.9736483 c -0.026875,0.034276 -0.053855,0.068447 -0.080939,0.1025145 -0.030495,0.03683 -0.061093,0.073557 -0.091796,0.1101787 -0.052892,0.019714 -0.1058884,0.039323 -0.1589888,0.058828 -0.014069,0.010174 -0.028242,0.020245 -0.042519,0.03021 0.00195,-0.00174 0.0038,-0.00359 0.00554,-0.00554 -0.016363,0.0049 -0.032831,0.0097 -0.049402,0.014399 -0.00545,0.00854 -0.011002,0.016974 -0.01666,0.025305" />
+    <path
+       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 2.9285004,6.0226886 c -0.033308,0.069998 -0.066594,0.1399519 -0.092148,0.1828957 -0.025554,0.042944 -0.043401,0.058927 -0.064272,0.076909 -0.020871,0.017982 -0.044768,0.037966 -0.070149,0.047961 -0.025381,0.01 -0.052341,0.01 -0.066896,0.011018 -0.014555,0.00102 -0.016595,0.00306 -0.019607,0.00408 -0.00301,0.00102 -0.0071,0.00102 -0.016496,0.00773 -0.00939,0.00671 -0.024001,0.020128 -0.038612,0.033553"
+       id="path1276"
+       inkscape:path-effect="#path-effect1278"
+       inkscape:original-d="m 2.9285004,6.0226886 c -0.033182,0.070058 -0.066469,0.1400116 -0.09986,0.2098611 -0.017744,0.016088 -0.035592,0.032071 -0.053544,0.047951 -0.023793,0.020087 -0.04769,0.040071 -0.071691,0.05995 -0.026856,1.041e-4 -0.053816,1.041e-4 -0.08088,0 -0.00194,0.00215 -0.00398,0.00419 -0.00613,0.00613 -0.00398,1.041e-4 -0.00807,1.041e-4 -0.012255,0 -0.014503,0.013525 -0.02911,0.026945 -0.043821,0.040261" />
+    <path
+       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 2.9285014,6.0226906 c 0.019641,0.040188 0.039221,0.08025 0.073343,0.1019923 0.034122,0.021742 0.082736,0.025281 0.1061103,0.025328 0.023374,4.67e-5 0.021553,-0.00352 0.02211,-0.013722 5.567e-4,-0.010199 0.00357,-0.026984 0.00608,-0.038375 0.00251,-0.011391 0.00451,-0.017355 -2.703e-4,-0.024679 -0.00478,-0.00732 -0.016473,-0.016024 -0.023544,-0.030634 -0.00707,-0.014609 -0.00941,-0.035154 -0.011771,-0.055815"
+       id="path1280"
+       inkscape:path-effect="#path-effect1282"
+       inkscape:original-d="m 2.9285014,6.0226906 c 0.019684,0.040167 0.039264,0.080229 0.05874,0.1201875 0.048718,0.00364 0.097332,0.00718 0.1458413,0.010617 -0.00171,-0.00346 -0.00353,-0.00703 -0.00546,-0.010702 0.00312,-0.016681 0.00613,-0.033467 0.00904,-0.050357 0.00211,-0.00587 0.00411,-0.011835 0.00601,-0.017909 -0.011592,-0.0086 -0.023288,-0.017299 -0.035088,-0.026104 -0.00224,-0.020441 -0.00458,-0.040986 -0.00703,-0.061636" />
+    <path
+       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 2.7011286,7.6697467 c -0.095835,0.05496 -0.1917038,0.1099402 -0.2518957,0.1405031 -0.060192,0.030563 -0.084747,0.036708 -0.099134,0.042909 -0.014387,0.0062 -0.018515,0.012414 -0.033281,0.016514 -0.014766,0.0041 -0.040281,0.00612 -0.06589,0.00814"
+       id="path1284"
+       inkscape:path-effect="#path-effect1286"
+       inkscape:original-d="m 2.7011286,7.6697467 c -0.095764,0.055084 -0.1916331,0.1100635 -0.2876058,0.164939 -0.024451,0.00625 -0.049006,0.012395 -0.073666,0.018436 -0.00402,0.00632 -0.00815,0.012532 -0.012385,0.018641 -0.02541,0.00212 -0.050925,0.00414 -0.076543,0.00605" />
+    <path
+       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 2.9073156,7.7919828 c -0.026414,0.028436 -0.052824,0.056867 -0.092653,0.081291 -0.039829,0.024424 -0.093137,0.044866 -0.1316066,0.061965 -0.03847,0.017099 -0.062079,0.030854 -0.085478,0.03774 -0.023399,0.00689 -0.046661,0.00689 -0.065419,0.00891 -0.018758,0.00202 -0.032978,0.00608 -0.047266,0.010157"
+       id="path1288"
+       inkscape:path-effect="#path-effect1290"
+       inkscape:original-d="m 2.9073156,7.7919828 c -0.026306,0.028536 -0.052716,0.056967 -0.07923,0.085295 -0.053204,0.020546 -0.1065115,0.040988 -0.1599235,0.061326 -0.023504,0.013858 -0.047113,0.027612 -0.070825,0.041262 -0.023158,1.042e-4 -0.04642,1.042e-4 -0.069786,0 -0.014115,0.00416 -0.028335,0.00822 -0.042658,0.012176" />
+    <path
+       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 3.0852707,7.7660451 c -0.040218,0.058374 -0.080421,0.1167252 -0.1117487,0.1571236 -0.031328,0.040399 -0.053795,0.062866 -0.06805,0.075111 -0.014255,0.012246 -0.020354,0.014288 -0.034967,0.023878 -0.014613,0.00959 -0.037693,0.02672 -0.06079,0.043863"
+       id="path1292"
+       inkscape:path-effect="#path-effect1294"
+       inkscape:original-d="m 3.0852707,7.7660451 c -0.040099,0.058456 -0.080302,0.1168072 -0.1206088,0.1750546 -0.022363,0.022572 -0.04483,0.045039 -0.067402,0.067402 -0.006,0.00215 -0.0121,0.00419 -0.018306,0.00613 -0.022975,0.017234 -0.046055,0.034363 -0.069239,0.051389" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.96;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="201.62206"
+       y="620.41455"
+       id="text2904"
+       transform="matrix(0.01041667,0,0,0.01041667,-0.31253459,-0.09179994)"><tspan
+         sodipodi:role="line"
+         id="tspan2902"
+         x="201.62206"
+         y="620.41455">X range ccw</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.96;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="201.62206"
+       y="620.41455"
+       id="text2904-7"
+       transform="matrix(0.01041667,0,0,0.01041667,-0.4780196,1.5358697)"><tspan
+         sodipodi:role="line"
+         id="tspan2902-6"
+         x="201.62206"
+         y="620.41455">X offset ccw</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.96;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="201.62206"
+       y="620.41455"
+       id="text2904-7-3"
+       transform="matrix(0.01041667,0,0,0.01041667,-0.25984817,1.7318625)"><tspan
+         sodipodi:role="line"
+         id="tspan2902-6-1"
+         x="201.62206"
+         y="620.41455">X offset W</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.96;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="201.62206"
+       y="620.41455"
+       id="text2904-7-7"
+       transform="matrix(0.01041667,0,0,0.01041667,0.13094792,1.9143866)"
+       inkscape:transform-center-x="0.6078535"
+       inkscape:transform-center-y="-0.66395105"><tspan
+         sodipodi:role="line"
+         id="tspan2902-6-5"
+         x="201.62206"
+         y="620.41455">X offset cw</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.96;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="240.3167"
+       y="629.74255"
+       id="text4184"
+       transform="matrix(0.01041667,0,0,0.01041667,-0.25268367,0.05821041)"><tspan
+         sodipodi:role="line"
+         id="tspan4182"
+         x="240.3167"
+         y="629.74255">X range w</tspan></text>
+    <path
+       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 2.4848939,7.9920443 c -0.012164,0.018855 -0.02431,0.037684 -0.030375,0.04816 -0.00606,0.010477 -0.00606,0.012517 -0.00696,0.014384 -8.975e-4,0.00187 -0.0027,0.00367 -0.01556,0.00789 -0.012863,0.00423 -0.036855,0.010896 -0.060916,0.017584"
+       id="path11380"
+       inkscape:path-effect="#path-effect11382"
+       inkscape:original-d="m 2.4848939,7.9920443 c -0.012043,0.018933 -0.024189,0.037762 -0.03644,0.056487 1.042e-4,0.00215 1.042e-4,0.00419 0,0.00613 -0.00169,0.0019 -0.00349,0.0037 -0.0054,0.0054 -0.023887,0.00677 -0.047878,0.013442 -0.071974,0.020006" />
+    <path
+       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 2.8097158,8.0660233 c 0.00395,0.00928 0.00785,0.018441 0.00743,0.022956 -4.188e-4,0.00452 -0.0052,0.00452 -0.012587,0.010373 -0.00739,0.00586 -0.017271,0.017562 -0.023129,0.023411 -0.00586,0.00585 -0.00781,0.00585 -0.010825,0.00784 -0.00302,0.00199 -0.00701,0.00598 -0.010035,0.011072 -0.00303,0.00509 -0.00507,0.011218 -0.010301,0.015847 -0.00523,0.00463 -0.013721,0.00784 -0.01674,0.00886 -0.00302,0.00102 -5.623e-4,-1.459e-4 -0.00278,0.0012 -0.00222,0.00135 -0.00912,0.00522 -0.013613,0.013181 -0.00449,0.00796 -0.00654,0.019921 -0.00857,0.031795"
+       id="path11384"
+       inkscape:path-effect="#path-effect11386"
+       inkscape:original-d="m 2.8097158,8.0660233 c 0.004,0.00926 0.0079,0.018418 0.011689,0.027471 -0.00468,1.042e-4 -0.00946,1.042e-4 -0.014345,0 -0.00978,0.01181 -0.019662,0.023515 -0.02965,0.035117 -0.00184,1.042e-4 -0.00379,1.042e-4 -0.00584,0 -0.00388,0.00409 -0.00787,0.00808 -0.011966,0.011966 -0.00194,0.00623 -0.00398,0.012359 -0.00613,0.018382 -0.00839,0.00332 -0.016881,0.00653 -0.025478,0.00964 0.00257,-0.00107 0.00503,-0.00223 0.00739,-0.00351 -0.00679,0.00397 -0.013689,0.00784 -0.02069,0.011603 -0.00194,0.012061 -0.00398,0.024019 -0.00613,0.035872" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.96;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="142.75861"
+       y="682.78149"
+       id="text11954"
+       transform="matrix(0.01041667,0,0,0.01041667,0.58560132,0.03545088)"><tspan
+         sodipodi:role="line"
+         id="tspan11952"
+         x="142.75861"
+         y="682.78149">Viewed from front</tspan></text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
@@ -873,7 +990,10 @@
     <g
        id="g31579"
        transform="translate(-3.559055,1.4842393)"
-       style="display:inline;opacity:1">
+       style="display:inline;opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <path
          inkscape:connector-curvature="0"
          id="path3081"
@@ -889,7 +1009,10 @@
     <g
        transform="translate(-1.5905512,1.4842394)"
        id="g40368"
-       style="display:inline;opacity:1">
+       style="display:inline;opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <path
          style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 6.6929134,7.0629921 h 0.622047 V 7.6850396 H 6.8582674 L 6.6929134,7.5275593 Z"
@@ -905,7 +1028,10 @@
     <g
        id="g1880"
        transform="translate(-6.6249133,-7.0589333)"
-       style="display:inline;opacity:1">
+       style="display:inline;opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <rect
          style="display:inline;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect955"
@@ -938,7 +1064,10 @@
     <g
        id="g1973"
        transform="translate(8.8582678,1.9133861)"
-       style="display:inline;opacity:1">
+       style="display:inline;opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          r="0.31496063"
          style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -955,7 +1084,10 @@
     <g
        id="g341"
        transform="translate(8.8582678,0.14173264)"
-       style="display:inline;opacity:1">
+       style="display:inline;opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          r="0.31496063"
          style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -972,7 +1104,10 @@
     <g
        id="g351"
        transform="translate(10.826772,1.9133861)"
-       style="display:inline;opacity:1">
+       style="display:inline;opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          r="0.31496063"
          style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -989,7 +1124,10 @@
     <g
        id="g357"
        transform="translate(10.826772,0.14173264)"
-       style="display:inline;opacity:1">
+       style="display:inline;opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          r="0.31496063"
          style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1006,7 +1144,10 @@
     <g
        id="g430"
        transform="translate(-4.543307,1.4842394)"
-       style="display:inline;opacity:1">
+       style="display:inline;opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <path
          inkscape:connector-curvature="0"
          id="path426"
@@ -1022,7 +1163,10 @@
     <g
        id="g1405"
        transform="translate(-2.5748031,1.4842394)"
-       style="display:inline;opacity:1">
+       style="display:inline;opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <path
          inkscape:connector-curvature="0"
          id="path1401"
@@ -1035,128 +1179,12 @@
          id="circle1403"
          style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
-    <path
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       d="m 2.7825122,5.9736483 c -0.02699,0.034185 -0.05397,0.068356 -0.082758,0.1038037 -0.028788,0.035447 -0.059387,0.072174 -0.1011513,0.1003256 -0.041764,0.028152 -0.094761,0.047761 -0.128364,0.062604 -0.033603,0.014843 -0.047777,0.024914 -0.053951,0.029033 -0.00617,0.00412 -0.00432,0.00227 -0.0116,0.00374 -0.00728,0.00147 -0.023745,0.00627 -0.034798,0.012907 -0.011053,0.00664 -0.016606,0.015074 -0.022143,0.023484"
-       id="path1272"
-       inkscape:path-effect="#path-effect1274"
-       inkscape:original-d="m 2.7825122,5.9736483 c -0.026875,0.034276 -0.053855,0.068447 -0.080939,0.1025145 -0.030495,0.03683 -0.061093,0.073557 -0.091796,0.1101787 -0.052892,0.019714 -0.1058884,0.039323 -0.1589888,0.058828 -0.014069,0.010174 -0.028242,0.020245 -0.042519,0.03021 0.00195,-0.00174 0.0038,-0.00359 0.00554,-0.00554 -0.016363,0.0049 -0.032831,0.0097 -0.049402,0.014399 -0.00545,0.00854 -0.011002,0.016974 -0.01666,0.025305" />
-    <path
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       d="m 2.9285004,6.0226886 c -0.033308,0.069998 -0.066594,0.1399519 -0.092148,0.1828957 -0.025554,0.042944 -0.043401,0.058927 -0.064272,0.076909 -0.020871,0.017982 -0.044768,0.037966 -0.070149,0.047961 -0.025381,0.01 -0.052341,0.01 -0.066896,0.011018 -0.014555,0.00102 -0.016595,0.00306 -0.019607,0.00408 -0.00301,0.00102 -0.0071,0.00102 -0.016496,0.00773 -0.00939,0.00671 -0.024001,0.020128 -0.038612,0.033553"
-       id="path1276"
-       inkscape:path-effect="#path-effect1278"
-       inkscape:original-d="m 2.9285004,6.0226886 c -0.033182,0.070058 -0.066469,0.1400116 -0.09986,0.2098611 -0.017744,0.016088 -0.035592,0.032071 -0.053544,0.047951 -0.023793,0.020087 -0.04769,0.040071 -0.071691,0.05995 -0.026856,1.041e-4 -0.053816,1.041e-4 -0.08088,0 -0.00194,0.00215 -0.00398,0.00419 -0.00613,0.00613 -0.00398,1.041e-4 -0.00807,1.041e-4 -0.012255,0 -0.014503,0.013525 -0.02911,0.026945 -0.043821,0.040261" />
-    <path
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       d="m 2.9285014,6.0226906 c 0.019641,0.040188 0.039221,0.08025 0.073343,0.1019923 0.034122,0.021742 0.082736,0.025281 0.1061103,0.025328 0.023374,4.67e-5 0.021553,-0.00352 0.02211,-0.013722 5.567e-4,-0.010199 0.00357,-0.026984 0.00608,-0.038375 0.00251,-0.011391 0.00451,-0.017355 -2.703e-4,-0.024679 -0.00478,-0.00732 -0.016473,-0.016024 -0.023544,-0.030634 -0.00707,-0.014609 -0.00941,-0.035154 -0.011771,-0.055815"
-       id="path1280"
-       inkscape:path-effect="#path-effect1282"
-       inkscape:original-d="m 2.9285014,6.0226906 c 0.019684,0.040167 0.039264,0.080229 0.05874,0.1201875 0.048718,0.00364 0.097332,0.00718 0.1458413,0.010617 -0.00171,-0.00346 -0.00353,-0.00703 -0.00546,-0.010702 0.00312,-0.016681 0.00613,-0.033467 0.00904,-0.050357 0.00211,-0.00587 0.00411,-0.011835 0.00601,-0.017909 -0.011592,-0.0086 -0.023288,-0.017299 -0.035088,-0.026104 -0.00224,-0.020441 -0.00458,-0.040986 -0.00703,-0.061636" />
-    <path
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       d="m 2.7011286,7.6697467 c -0.095835,0.05496 -0.1917038,0.1099402 -0.2518957,0.1405031 -0.060192,0.030563 -0.084747,0.036708 -0.099134,0.042909 -0.014387,0.0062 -0.018515,0.012414 -0.033281,0.016514 -0.014766,0.0041 -0.040281,0.00612 -0.06589,0.00814"
-       id="path1284"
-       inkscape:path-effect="#path-effect1286"
-       inkscape:original-d="m 2.7011286,7.6697467 c -0.095764,0.055084 -0.1916331,0.1100635 -0.2876058,0.164939 -0.024451,0.00625 -0.049006,0.012395 -0.073666,0.018436 -0.00402,0.00632 -0.00815,0.012532 -0.012385,0.018641 -0.02541,0.00212 -0.050925,0.00414 -0.076543,0.00605" />
-    <path
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       d="m 2.9073156,7.7919828 c -0.026414,0.028436 -0.052824,0.056867 -0.092653,0.081291 -0.039829,0.024424 -0.093137,0.044866 -0.1316066,0.061965 -0.03847,0.017099 -0.062079,0.030854 -0.085478,0.03774 -0.023399,0.00689 -0.046661,0.00689 -0.065419,0.00891 -0.018758,0.00202 -0.032978,0.00608 -0.047266,0.010157"
-       id="path1288"
-       inkscape:path-effect="#path-effect1290"
-       inkscape:original-d="m 2.9073156,7.7919828 c -0.026306,0.028536 -0.052716,0.056967 -0.07923,0.085295 -0.053204,0.020546 -0.1065115,0.040988 -0.1599235,0.061326 -0.023504,0.013858 -0.047113,0.027612 -0.070825,0.041262 -0.023158,1.042e-4 -0.04642,1.042e-4 -0.069786,0 -0.014115,0.00416 -0.028335,0.00822 -0.042658,0.012176" />
-    <path
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       d="m 3.0852707,7.7660451 c -0.040218,0.058374 -0.080421,0.1167252 -0.1117487,0.1571236 -0.031328,0.040399 -0.053795,0.062866 -0.06805,0.075111 -0.014255,0.012246 -0.020354,0.014288 -0.034967,0.023878 -0.014613,0.00959 -0.037693,0.02672 -0.06079,0.043863"
-       id="path1292"
-       inkscape:path-effect="#path-effect1294"
-       inkscape:original-d="m 3.0852707,7.7660451 c -0.040099,0.058456 -0.080302,0.1168072 -0.1206088,0.1750546 -0.022363,0.022572 -0.04483,0.045039 -0.067402,0.067402 -0.006,0.00215 -0.0121,0.00419 -0.018306,0.00613 -0.022975,0.017234 -0.046055,0.034363 -0.069239,0.051389" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.96;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       x="201.62206"
-       y="620.41455"
-       id="text2904"
-       transform="matrix(0.01041667,0,0,0.01041667,-0.31253459,-0.09179994)"><tspan
-         sodipodi:role="line"
-         id="tspan2902"
-         x="201.62206"
-         y="620.41455">X range ccw</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.96;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       x="201.62206"
-       y="620.41455"
-       id="text2904-7"
-       transform="matrix(0.01041667,0,0,0.01041667,-0.4780196,1.5358697)"><tspan
-         sodipodi:role="line"
-         id="tspan2902-6"
-         x="201.62206"
-         y="620.41455">X offset ccw</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.96;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       x="201.62206"
-       y="620.41455"
-       id="text2904-7-3"
-       transform="matrix(0.01041667,0,0,0.01041667,-0.25984817,1.7318625)"><tspan
-         sodipodi:role="line"
-         id="tspan2902-6-1"
-         x="201.62206"
-         y="620.41455">X offset W</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.96;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       x="201.62206"
-       y="620.41455"
-       id="text2904-7-7"
-       transform="matrix(0.01041667,0,0,0.01041667,0.13094792,1.9143866)"
-       inkscape:transform-center-x="0.6078535"
-       inkscape:transform-center-y="-0.66395105"><tspan
-         sodipodi:role="line"
-         id="tspan2902-6-5"
-         x="201.62206"
-         y="620.41455">X offset cw</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.96;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       x="240.3167"
-       y="629.74255"
-       id="text4184"
-       transform="matrix(0.01041667,0,0,0.01041667,-0.25268367,0.05821041)"><tspan
-         sodipodi:role="line"
-         id="tspan4182"
-         x="240.3167"
-         y="629.74255">X range w</tspan></text>
-    <path
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       d="m 2.4848939,7.9920443 c -0.012164,0.018855 -0.02431,0.037684 -0.030375,0.04816 -0.00606,0.010477 -0.00606,0.012517 -0.00696,0.014384 -8.975e-4,0.00187 -0.0027,0.00367 -0.01556,0.00789 -0.012863,0.00423 -0.036855,0.010896 -0.060916,0.017584"
-       id="path11380"
-       inkscape:path-effect="#path-effect11382"
-       inkscape:original-d="m 2.4848939,7.9920443 c -0.012043,0.018933 -0.024189,0.037762 -0.03644,0.056487 1.042e-4,0.00215 1.042e-4,0.00419 0,0.00613 -0.00169,0.0019 -0.00349,0.0037 -0.0054,0.0054 -0.023887,0.00677 -0.047878,0.013442 -0.071974,0.020006" />
-    <path
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       d="m 2.8097158,8.0660233 c 0.00395,0.00928 0.00785,0.018441 0.00743,0.022956 -4.188e-4,0.00452 -0.0052,0.00452 -0.012587,0.010373 -0.00739,0.00586 -0.017271,0.017562 -0.023129,0.023411 -0.00586,0.00585 -0.00781,0.00585 -0.010825,0.00784 -0.00302,0.00199 -0.00701,0.00598 -0.010035,0.011072 -0.00303,0.00509 -0.00507,0.011218 -0.010301,0.015847 -0.00523,0.00463 -0.013721,0.00784 -0.01674,0.00886 -0.00302,0.00102 -5.623e-4,-1.459e-4 -0.00278,0.0012 -0.00222,0.00135 -0.00912,0.00522 -0.013613,0.013181 -0.00449,0.00796 -0.00654,0.019921 -0.00857,0.031795"
-       id="path11384"
-       inkscape:path-effect="#path-effect11386"
-       inkscape:original-d="m 2.8097158,8.0660233 c 0.004,0.00926 0.0079,0.018418 0.011689,0.027471 -0.00468,1.042e-4 -0.00946,1.042e-4 -0.014345,0 -0.00978,0.01181 -0.019662,0.023515 -0.02965,0.035117 -0.00184,1.042e-4 -0.00379,1.042e-4 -0.00584,0 -0.00388,0.00409 -0.00787,0.00808 -0.011966,0.011966 -0.00194,0.00623 -0.00398,0.012359 -0.00613,0.018382 -0.00839,0.00332 -0.016881,0.00653 -0.025478,0.00964 0.00257,-0.00107 0.00503,-0.00223 0.00739,-0.00351 -0.00679,0.00397 -0.013689,0.00784 -0.02069,0.011603 -0.00194,0.012061 -0.00398,0.024019 -0.00613,0.035872" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.96;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       x="142.75861"
-       y="682.78149"
-       id="text11954"
-       transform="matrix(0.01041667,0,0,0.01041667,0.58560132,0.03545088)"><tspan
-         sodipodi:role="line"
-         id="tspan11952"
-         x="142.75861"
-         y="682.78149">Viewed from front</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="Art"
-     style="display:none">
+     style="display:inline">
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3491"
@@ -1164,36 +1192,36 @@
        height="7.8740158"
        x="1.968504"
        y="1.9685011"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1.9685038,9.448819 3.9370079,-2.9e-6"
        id="path4204"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1.9685038,2.3622023 3.9370079,-5e-7"
        id="path4206"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.194444px;line-height:0;font-family:Limelight;-inkscape-font-specification:'Limelight, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="3.9350386"
        y="2.2440915"
        id="text4163"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan4161"
          x="3.9350386"
@@ -1205,9 +1233,9 @@
        x="3.9350386"
        y="9.7244062"
        id="text4163-1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan4161-0"
          x="3.9350386"
@@ -1258,16 +1286,16 @@
      inkscape:groupmode="layer"
      id="layer16"
      inkscape:label="Labels"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="3.9370079"
        y="5.5118113"
        id="text1429-3-3"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan1427-6-5"
          x="3.9370079"
@@ -1277,9 +1305,9 @@
        style="display:inline;opacity:0.995;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2377-7)"
        d="M 3.9378622,5.3517321 3.9366222,5.215982"
        id="path1484-6"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1578"
@@ -1287,9 +1315,9 @@
        height="0.98425353"
        x="2.0078733"
        y="8.4251938"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <flowRoot
        transform="matrix(0.01041667,0,0,0.01041667,-2.4632552e-6,0.590545)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1308,27 +1336,27 @@
        cx="3.4448819"
        id="circle3085"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <circle
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle3121"
        cx="5.4133859"
        cy="8.8582554"
        r="0.27559054"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="4.4291339"
        y="9.3306961"
        id="text3125"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan3123"
          x="4.4291339"
@@ -1352,9 +1380,9 @@
        x="5.4133859"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0104167"
          y="9.3306961"
          x="5.4133859"
@@ -1366,9 +1394,9 @@
        x="2.9527559"
        y="8.1889763"
        id="text1979"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan1977"
          x="2.9527559"
@@ -1380,27 +1408,27 @@
        id="circle2005"
        cx="2.9527559"
        cy="7.4803152"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <circle
        r="0.17716536"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle331"
        cx="2.9527559"
        cy="5.7086616"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="2.9527559"
        y="6.4173231"
        id="text335"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan333"
          x="2.9527559"
@@ -1412,18 +1440,18 @@
        id="circle359"
        cx="4.9212599"
        cy="7.4803152"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="4.9212599"
        y="8.1889763"
        id="text363"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan361"
          x="4.9212599"
@@ -1435,18 +1463,18 @@
        id="circle371"
        cx="4.9212599"
        cy="5.7086616"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="4.9212599"
        y="6.4173231"
        id="text375"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan373"
          x="4.9212599"
@@ -1458,27 +1486,27 @@
        cx="2.4606302"
        id="circle424"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <circle
        r="0.27559054"
        cy="8.8582554"
        cx="4.4291339"
        id="circle1407"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="2.4606299"
        y="9.3306961"
        id="text1429"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan1427"
          x="2.4606299"
@@ -1490,9 +1518,9 @@
        x="3.4448819"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0104167"
          y="9.3306961"
          x="3.4448819"
@@ -1504,9 +1532,9 @@
        x="2.4606299"
        y="4.015748"
        id="text1429-3"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan1427-6"
          x="2.4606299"
@@ -1516,39 +1544,39 @@
        style="opacity:0.995;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2377)"
        d="m 2.5229016,3.9433939 0.1357501,-0.00124"
        id="path1484"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <circle
        r="0.078740157"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle4718"
        cx="2.4606223"
        cy="5.1574769"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <circle
        r="0.078740157"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle4478"
        cx="5.4133854"
        cy="5.1574683"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_art.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="Holes"
-     style="display:none">
+     style="display:inline">
     <g
        id="g1586"
        transform="translate(8.3921142,1.6666756)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <g
          id="g4984"
          transform="translate(-0.05746913,-0.01314051)">
@@ -1585,9 +1613,9 @@
        style="display:inline"
        id="g1586-9"
        transform="translate(4.8015632,1.6666756)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <g
          id="g4984-6"
          transform="translate(-0.05746913,-0.01314051)">
@@ -1618,9 +1646,9 @@
        style="display:inline"
        id="g1586-3"
        transform="translate(4.8015632,9.3044709)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <g
          id="g4984-8"
          transform="translate(-0.05746913,-0.01314051)">
@@ -1651,9 +1679,9 @@
        style="display:inline"
        id="g1586-8"
        transform="translate(8.3918061,9.3044709)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <g
          id="g4984-88"
          transform="translate(-0.05746913,-0.01314051)">
@@ -1683,9 +1711,9 @@
     <g
        id="g2017"
        transform="translate(9.8425225,-1.3543378)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          cy="8.8346519"
          cx="-6.8897624"
@@ -1706,9 +1734,9 @@
     <g
        id="g323"
        transform="translate(9.8425225,-3.1259913)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          cy="8.8346519"
          cx="-6.8897624"
@@ -1729,9 +1757,9 @@
     <g
        id="g391"
        transform="translate(11.811022,-1.3543369)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          cy="8.8346519"
          cx="-6.8897624"
@@ -1752,9 +1780,9 @@
     <g
        id="g399"
        transform="translate(11.811022,-3.1259904)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          cy="8.8346519"
          cx="-6.8897624"
@@ -1776,9 +1804,9 @@
        id="g1339"
        style="display:inline"
        transform="translate(10.334644,7.1102174)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          r="0.19685039"
          cy="1.7480378"
@@ -1800,9 +1828,9 @@
        id="g1339-3"
        style="display:inline"
        transform="translate(12.303148,7.1102174)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          r="0.19685039"
          cy="1.7480378"
@@ -1823,9 +1851,9 @@
     <g
        id="g6462"
        transform="translate(0.49409498,0.3937037)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <path
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="M 2.9507868,3.2244042 V 3.4212547"
@@ -1892,9 +1920,9 @@
        id="g1339-35"
        style="display:inline"
        transform="translate(9.3503923,7.1102174)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          r="0.19685039"
          cy="1.7480378"
@@ -1916,9 +1944,9 @@
        id="g1415"
        style="display:inline"
        transform="translate(11.318901,7.1102166)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          r="0.19685039"
          cy="1.7480378"
@@ -1942,50 +1970,50 @@
        id="circle4720"
        cx="2.4606223"
        cy="5.1574769"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.4606189,5.1181065 v 0.07874"
        id="path4722"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.4999929,5.1574776 h -0.07874"
        id="path4724"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <circle
        r="0.062992126"
        style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle4480"
        cx="5.4133854"
        cy="5.1574683"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 5.4133817,5.1180977 v 0.07874"
        id="path4482"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 5.4527557,5.1574688 h -0.07874"
        id="path4484"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel_holes.png"
-       inkscape:export-xdpi="1000.0282"
-       inkscape:export-ydpi="1000.0282" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2013,13 +2041,14 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="Panel Hardware"
-     style="display:none;opacity:1">
+     style="display:inline;opacity:1">
     <g
        id="g3509-06"
        style="display:inline"
        transform="translate(12.657331,-1.3865433)"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png">
       <circle
          style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path3500-2"
@@ -2040,7 +2069,10 @@
     <g
        id="g3105"
        style="display:inline"
-       transform="matrix(1.000002,0,0,1.000002,3.999674,2.8880624)">
+       transform="matrix(1.000002,0,0,1.000002,3.999674,2.8880624)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          transform="rotate(-120)"
          r="0.26752752"
@@ -2083,7 +2115,10 @@
     <g
        transform="matrix(1.000002,0,0,1.000002,5.9681778,2.8880624)"
        style="display:inline"
-       id="g3157">
+       id="g3157"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle3149"
@@ -2125,7 +2160,10 @@
     </g>
     <g
        id="g5406"
-       transform="translate(0.49409498,0.3937037)">
+       transform="translate(0.49409498,0.3937037)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          style="display:inline;opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle930-1"
@@ -2148,7 +2186,10 @@
     <g
        id="g422"
        style="display:inline"
-       transform="matrix(1.000002,0,0,1.000002,3.015422,2.8880624)">
+       transform="matrix(1.000002,0,0,1.000002,3.015422,2.8880624)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          transform="rotate(-120)"
          r="0.26752752"
@@ -2191,7 +2232,10 @@
     <g
        id="g1425"
        style="display:inline"
-       transform="matrix(1.000002,0,0,1.000002,4.9839259,2.8880623)">
+       transform="matrix(1.000002,0,0,1.000002,4.9839259,2.8880623)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          transform="rotate(-120)"
          r="0.26752752"
@@ -2234,7 +2278,10 @@
     <g
        transform="matrix(-0.85870685,0,0,0.85870685,6.9515095,-0.36134171)"
        id="g1928-6"
-       style="display:inline">
+       style="display:inline"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle1920-2"
@@ -2261,7 +2308,10 @@
     <g
        transform="matrix(-0.85870685,0,0,0.85870685,6.9515086,1.4166192)"
        id="g1928-5"
-       style="display:inline">
+       style="display:inline"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle1920-7"
@@ -2288,7 +2338,10 @@
     <g
        transform="matrix(-0.85870685,0,0,0.85870685,4.9830057,1.4103118)"
        id="g1928-9"
-       style="display:inline">
+       style="display:inline"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle1920-75"
@@ -2315,7 +2368,10 @@
     <g
        transform="matrix(-0.85870685,0,0,0.85870685,4.9830057,-0.36134171)"
        id="g1928"
-       style="display:inline">
+       style="display:inline"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle1920"
@@ -2343,8 +2399,9 @@
        id="g4492"
        style="display:inline"
        transform="translate(15.610094,-1.3865521)"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Joystick/Images/joystick_panel.png">
       <circle
          style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle4486"
