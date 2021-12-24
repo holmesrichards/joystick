@@ -8,6 +8,8 @@ There also are offset control pots. These add a DC offset of between -5 V and 5 
 
 The X output voltage increases as you move the joystick from left to right, and Y increases from down to up. There also are two inverted output jacks; here the X output increases from right to left and the Y increases from up to down. Both outputs have the same range and same offset (with same sign), so for instance if the regular output is from 0 V to 10 V left to right, the inverted output will be 10 V to 0 V left to right.
 
+## Current draw
+16 mA +12 V, 16 mA -12 V
 
 ## Photos
 
