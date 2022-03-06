@@ -735,7 +735,7 @@ Wire Wire Line
 Wire Wire Line
 	4400 2250 4350 2250
 Text Notes 2850 1850 0    50   ~ 0
-Adjust trimmer to \nget ±2.5 V at TP1
+Adjust trimmer to \nget ±2.5 V at TP2
 Wire Wire Line
 	1850 2150 2950 2150
 Connection ~ 4400 2250
